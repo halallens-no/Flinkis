@@ -29,9 +29,13 @@ Flinkis helps kids build healthy routines through gamification and parental guid
 - 📵 **Completely Offline** — No ads, no tracking, no internet permission required
 - 🔐 **Privacy First** — All data stored locally on device
 
-### Screenshots
+### App Icon
 
-[Your app screenshots would go here]
+<img src="assets/icon-512.png" alt="Flinkis App Icon" width="200"/>
+
+### Feature Graphic
+
+![Flinkis Feature Graphic](assets/feature-graphic-1024x500.png)
 
 ---
 
@@ -347,6 +351,19 @@ Flinkis is open source and can be submitted to F-Droid:
 1. Fork F-Droid repository
 2. Add metadata in `metadata/com.halallens.flinkis.yml`
 3. Submit pull request
+
+---
+
+## Downloads
+
+**Latest Release**: [Flinkis v1.0.1](assets/flinkis-v1.0.1-release.apk) (7.8 MB)
+
+- **Signed APK** (ready to install on Android devices)
+- Version: 1.0.1
+- Target SDK: Android 15 (API 35)
+- Minimum SDK: Android 8.0 (API 26)
+- All 14 languages included
+- Ad-free, offline-first
 
 ---
 
