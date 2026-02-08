@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Boy Theme: Blue/Adventure -->
+    <color name="boy_primary">#1976D2</color>
+    <color name="boy_primary_light">#63A4FF</color>
+    <color name="boy_primary_dark">#004BA0</color>
+    <color name="boy_secondary">#00ACC1</color>
+    <color name="boy_background_light">#F0F7FF</color>
+    <color name="boy_background_dark">#0D1B2A</color>
+    <color name="boy_surface_light">#FFFFFF</color>
+    <color name="boy_surface_dark">#1B2838</color>
+    <color name="boy_accent">#FF6D00</color>
+
+    <!-- Girl Theme: Pink/Sparkle -->
+    <color name="girl_primary">#AD1457</color>
+    <color name="girl_primary_light">#E35183</color>
+    <color name="girl_primary_dark">#78002E</color>
+    <color name="girl_secondary">#7B1FA2</color>
+    <color name="girl_background_light">#FFF0F5</color>
+    <color name="girl_background_dark">#1A0A14</color>
+    <color name="girl_surface_light">#FFFFFF</color>
+    <color name="girl_surface_dark">#2A1525</color>
+    <color name="girl_accent">#FF80AB</color>
+
+    <!-- Neutral Theme: Green/Nature -->
+    <color name="neutral_primary">#2E7D32</color>
+    <color name="neutral_primary_light">#60AD5E</color>
+    <color name="neutral_primary_dark">#005005</color>
+    <color name="neutral_secondary">#FF8F00</color>
+    <color name="neutral_background_light">#F1F8E9</color>
+    <color name="neutral_background_dark">#0D1A0D</color>
+    <color name="neutral_surface_light">#FFFFFF</color>
+    <color name="neutral_surface_dark">#1A2A1A</color>
+    <color name="neutral_accent">#FFAB00</color>
+
+    <!-- Shared Colors -->
+    <color name="star_gold">#FFD700</color>
+    <color name="check_green">#4CAF50</color>
+    <color name="streak_fire">#FF5722</color>
+    <color name="points_purple">#9C27B0</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFB300</color>
+    <color name="error">#E53935</color>
+
+    <!-- Default theme for XML (Neutral) -->
+    <color name="theme_primary">@color/neutral_primary</color>
+    <color name="theme_surface_light">@color/neutral_surface_light</color>
+    <color name="theme_surface_dark">@color/neutral_surface_dark</color>
+</resources>

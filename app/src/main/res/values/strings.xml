@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">Daily Routines for Kids</string>
+    <string name="app_splash_subtitle">Ad-free by halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Today</string>
+    <string name="nav_weekly">Weekly</string>
+    <string name="nav_rewards">Rewards</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Welcome to Flinkis!</string>
+    <string name="onboarding_choose_theme">Choose your style</string>
+    <string name="onboarding_theme_boy">Adventure</string>
+    <string name="onboarding_theme_girl">Sparkle</string>
+    <string name="onboarding_theme_neutral">Nature</string>
+    <string name="onboarding_whats_your_name">What\'s your name?</string>
+    <string name="onboarding_pick_avatar">Pick your avatar</string>
+    <string name="onboarding_lets_go">Let\'s Go!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Today\'s Routines</string>
+    <string name="today_great_job">Great job!</string>
+    <string name="today_all_done">All done for today!</string>
+    <string name="today_progress" formatted="false">%d of %d completed</string>
+    <string name="today_points_earned">+%d points!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Morning</string>
+    <string name="timeslot_school">School</string>
+    <string name="timeslot_afternoon">Afternoon</string>
+    <string name="timeslot_evening">Evening</string>
+    <string name="timeslot_bedtime">Bedtime</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">Wake up</string>
+    <string name="routine_make_bed">Make bed</string>
+    <string name="routine_brush_teeth_morning">Brush teeth</string>
+    <string name="routine_get_dressed">Get dressed</string>
+    <string name="routine_eat_breakfast">Eat breakfast</string>
+    <string name="routine_pack_bag">Pack school bag</string>
+    <string name="routine_homework">Do homework</string>
+    <string name="routine_read">Read for 15 minutes</string>
+    <string name="routine_outdoor_play">Outdoor play</string>
+    <string name="routine_clean_toys">Clean up toys</string>
+    <string name="routine_help_chores">Help with chores</string>
+    <string name="routine_eat_dinner">Eat dinner</string>
+    <string name="routine_set_table">Help set table</string>
+    <string name="routine_screen_free">Screen-free time</string>
+    <string name="routine_brush_teeth_night">Brush teeth</string>
+    <string name="routine_pajamas">Put on pajamas</string>
+    <string name="routine_bedtime_story">Read bedtime story</string>
+    <string name="routine_lights_out">Lights out on time</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Weekly View</string>
+    <string name="weekly_this_week">This Week</string>
+    <string name="weekly_completion">%d%% complete</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">Rewards</string>
+    <string name="rewards_total_points">Total Points</string>
+    <string name="rewards_streak">Day Streak</string>
+    <string name="rewards_milestones">Milestones</string>
+    <string name="rewards_badges">Badges</string>
+    <string name="rewards_locked">Keep going!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">First Star!</string>
+    <string name="milestone_rising_star">Rising Star</string>
+    <string name="milestone_super_helper">Super Helper</string>
+    <string name="milestone_champion">Champion</string>
+    <string name="milestone_legend">Legend</string>
+    <string name="milestone_week_warrior">Week Warrior</string>
+    <string name="milestone_monthly_master">Monthly Master</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_routines">Edit Routines</string>
+    <string name="settings_routines_desc">Add, edit, or remove routines</string>
+    <string name="settings_children">Manage Children</string>
+    <string name="settings_children_desc">Add or switch between children</string>
+    <string name="settings_theme">Change Theme</string>
+    <string name="settings_theme_desc">Switch between Adventure, Sparkle, and Nature</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_desc">Change app language</string>
+    <string name="settings_print">Print Routine Sheet</string>
+    <string name="settings_print_desc">Print a weekly routine checklist</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Edit Routine</string>
+    <string name="edit_routine_add">Add Routine</string>
+    <string name="edit_routine_name">Routine name</string>
+    <string name="edit_routine_points">Points</string>
+    <string name="edit_routine_time_slot">Time slot</string>
+    <string name="edit_routine_days">Active days</string>
+    <string name="edit_routine_save">Save</string>
+    <string name="edit_routine_delete">Delete</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">Manage Children</string>
+    <string name="manage_children_add">Add Child</string>
+    <string name="manage_children_switch">Switch to %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Mon</string>
+    <string name="day_tue">Tue</string>
+    <string name="day_wed">Wed</string>
+    <string name="day_thu">Thu</string>
+    <string name="day_fri">Fri</string>
+    <string name="day_sat">Sat</string>
+    <string name="day_sun">Sun</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">Choose a Routine</string>
+    <string name="template_pick_subtitle">Pick a template or build your own</string>
+    <string name="template_routines_count" formatted="false">%d routines</string>
+    <string name="template_create_own">Create Your Own</string>
+    <string name="template_build_scratch">Build from scratch</string>
+    <string name="template_switching_to">Switching to %s</string>
+    <string name="template_replacing_count" formatted="false">Replacing %d current routines</string>
+    <string name="template_customize">Customize before applying:</string>
+    <string name="template_routines_selected" formatted="false">%d of %d routines selected</string>
+    <string name="template_applying">Applying\u2026</string>
+    <string name="template_apply_count" formatted="false">Apply (%d)</string>
+    <string name="template_category_general">General</string>
+    <string name="template_category_islamic">Islamic</string>
+    <string name="template_category_custom">My Templates</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Create Template</string>
+    <string name="builder_name_prompt">Name your template</string>
+    <string name="builder_name_placeholder">e.g. Weekday Routine</string>
+    <string name="builder_pick_slots">Pick time slots</string>
+    <string name="builder_saving">Saving\u2026</string>
+    <string name="builder_save">Save Template</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Change Routine Template</string>
+    <string name="settings_switch_child">Switch Child</string>
+    <string name="settings_about_flinkis">About Flinkis</string>
+    <string name="settings_about_body">This app was lovingly requested by Nafisa, who wanted to share it with kids all around the world. Flinkis is completely ad-free and always will be.</string>
+    <string name="settings_about_body2">Have an idea for another kid-friendly app? Visit halallens.no or drop us a note at mac@halallens.no \u2014 we love hearing from families!</string>
+    <string name="settings_edit_profile">Edit Profile</string>
+    <string name="settings_choose_avatar">Choose Avatar</string>
+    <string name="settings_name_label">Name</string>
+    <string name="settings_theme_suffix">%s theme</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">Pick an avatar:</string>
+    <string name="manage_children_theme">Theme:</string>
+    <string name="manage_children_child_name">Child\'s name</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Back to today</string>
+    <string name="today_yesterday">Yesterday</string>
+    <string name="today_tomorrow">Tomorrow</string>
+    <string name="weekly_back_to_week">Back to this week</string>
+    <string name="weekly_last_week">Last Week</string>
+    <string name="weekly_progress">Weekly Progress</string>
+    <string name="weekly_completed_of" formatted="false">%d of %d completed</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Previous day</string>
+    <string name="a11y_next_day">Next day</string>
+    <string name="a11y_previous_week">Previous week</string>
+    <string name="a11y_next_week">Next week</string>
+    <string name="a11y_back">Back</string>
+    <string name="a11y_add_routine">Add routine</string>
+    <string name="a11y_add_child">Add child</string>
+    <string name="a11y_edit_profile">Edit profile</string>
+    <string name="a11y_completed">Completed</string>
+    <string name="a11y_not_completed">Not completed</string>
+    <string name="a11y_selected">Selected</string>
+    <string name="a11y_active">Active</string>
+    <string name="a11y_points">Points</string>
+    <string name="a11y_streak">Streak</string>
+    <string name="a11y_create_own">Create your own</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="loading">Loading\u2026</string>
+    <string name="your_name">Your name</string>
+    <string name="custom_suffix">(custom)</string>
+    <string name="points_label">Points:</string>
+    <string name="points_format">%d pts</string>
+</resources>

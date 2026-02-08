@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">Routines quotidiennes pour enfants</string>
+    <string name="app_splash_subtitle">Sans publicité par halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Aujourd\'hui</string>
+    <string name="nav_weekly">Hebdomadaire</string>
+    <string name="nav_rewards">R\u00e9compenses</string>
+    <string name="nav_settings">Param\u00e8tres</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Bienvenue sur Flinkis !</string>
+    <string name="onboarding_choose_theme">Choisis ton style</string>
+    <string name="onboarding_theme_boy">Aventure</string>
+    <string name="onboarding_theme_girl">Paillettes</string>
+    <string name="onboarding_theme_neutral">Nature</string>
+    <string name="onboarding_whats_your_name">Comment tu t\'appelles ?</string>
+    <string name="onboarding_pick_avatar">Choisis ton avatar</string>
+    <string name="onboarding_lets_go">C\'est parti !</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Routines du jour</string>
+    <string name="today_great_job">Bravo !</string>
+    <string name="today_all_done">Tout est fait pour aujourd\'hui !</string>
+    <string name="today_progress" formatted="false">%d sur %d termin\u00e9s</string>
+    <string name="today_points_earned">+%d points !</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Matin</string>
+    <string name="timeslot_school">\u00c9cole</string>
+    <string name="timeslot_afternoon">Apr\u00e8s-midi</string>
+    <string name="timeslot_evening">Soir</string>
+    <string name="timeslot_bedtime">Coucher</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">Se r\u00e9veiller</string>
+    <string name="routine_make_bed">Faire le lit</string>
+    <string name="routine_brush_teeth_morning">Se brosser les dents</string>
+    <string name="routine_get_dressed">S\'habiller</string>
+    <string name="routine_eat_breakfast">Prendre le petit-d\u00e9jeuner</string>
+    <string name="routine_pack_bag">Pr\u00e9parer le cartable</string>
+    <string name="routine_homework">Faire les devoirs</string>
+    <string name="routine_read">Lire pendant 15 minutes</string>
+    <string name="routine_outdoor_play">Jouer dehors</string>
+    <string name="routine_clean_toys">Ranger les jouets</string>
+    <string name="routine_help_chores">Aider aux t\u00e2ches m\u00e9nag\u00e8res</string>
+    <string name="routine_eat_dinner">D\u00eener</string>
+    <string name="routine_set_table">Mettre la table</string>
+    <string name="routine_screen_free">Temps sans \u00e9cran</string>
+    <string name="routine_brush_teeth_night">Se brosser les dents</string>
+    <string name="routine_pajamas">Mettre le pyjama</string>
+    <string name="routine_bedtime_story">Lire une histoire</string>
+    <string name="routine_lights_out">Lumi\u00e8res \u00e9teintes \u00e0 l\'heure</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Vue hebdomadaire</string>
+    <string name="weekly_this_week">Cette semaine</string>
+    <string name="weekly_completion">%d%% termin\u00e9</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">R\u00e9compenses</string>
+    <string name="rewards_total_points">Points totaux</string>
+    <string name="rewards_streak">Jours cons\u00e9cutifs</string>
+    <string name="rewards_milestones">\u00c9tapes</string>
+    <string name="rewards_badges">Badges</string>
+    <string name="rewards_locked">Continue !</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">Premi\u00e8re \u00e9toile !</string>
+    <string name="milestone_rising_star">\u00c9toile montante</string>
+    <string name="milestone_super_helper">Super assistant</string>
+    <string name="milestone_champion">Champion</string>
+    <string name="milestone_legend">L\u00e9gende</string>
+    <string name="milestone_week_warrior">Guerrier de la semaine</string>
+    <string name="milestone_monthly_master">Ma\u00eetre du mois</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Param\u00e8tres</string>
+    <string name="settings_routines">Modifier les routines</string>
+    <string name="settings_routines_desc">Ajouter, modifier ou supprimer des routines</string>
+    <string name="settings_children">G\u00e9rer les enfants</string>
+    <string name="settings_children_desc">Ajouter ou changer d\'enfant</string>
+    <string name="settings_theme">Changer de th\u00e8me</string>
+    <string name="settings_theme_desc">Basculer entre Aventure, Paillettes et Nature</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_language_desc">Changer la langue de l\'application</string>
+    <string name="settings_print">Imprimer la feuille de routine</string>
+    <string name="settings_print_desc">Imprimer une liste de routines hebdomadaire</string>
+    <string name="settings_about">\u00c0 propos</string>
+    <string name="settings_version">Version %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Modifier la routine</string>
+    <string name="edit_routine_add">Ajouter une routine</string>
+    <string name="edit_routine_name">Nom de la routine</string>
+    <string name="edit_routine_points">Points</string>
+    <string name="edit_routine_time_slot">Cr\u00e9neau horaire</string>
+    <string name="edit_routine_days">Jours actifs</string>
+    <string name="edit_routine_save">Enregistrer</string>
+    <string name="edit_routine_delete">Supprimer</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">G\u00e9rer les enfants</string>
+    <string name="manage_children_add">Ajouter un enfant</string>
+    <string name="manage_children_switch">Passer \u00e0 %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Lun</string>
+    <string name="day_tue">Mar</string>
+    <string name="day_wed">Mer</string>
+    <string name="day_thu">Jeu</string>
+    <string name="day_fri">Ven</string>
+    <string name="day_sat">Sam</string>
+    <string name="day_sun">Dim</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">Choisir une routine</string>
+    <string name="template_pick_subtitle">Choisir un mod\u00e8le ou cr\u00e9er le v\u00f4tre</string>
+    <string name="template_routines_count" formatted="false">%d routines</string>
+    <string name="template_create_own">Cr\u00e9er le v\u00f4tre</string>
+    <string name="template_build_scratch">Cr\u00e9er de z\u00e9ro</string>
+    <string name="template_switching_to">Passage \u00e0 %s</string>
+    <string name="template_replacing_count" formatted="false">Remplacement de %d routines actuelles</string>
+    <string name="template_customize">Personnaliser avant d\'appliquer :</string>
+    <string name="template_routines_selected" formatted="false">%d sur %d routines s\u00e9lectionn\u00e9es</string>
+    <string name="template_applying">Application\u2026</string>
+    <string name="template_apply_count" formatted="false">Appliquer (%d)</string>
+    <string name="template_category_general">Général</string>
+    <string name="template_category_islamic">Islamique</string>
+    <string name="template_category_custom">Mes modèles</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Cr\u00e9er un mod\u00e8le</string>
+    <string name="builder_name_prompt">Nommez votre mod\u00e8le</string>
+    <string name="builder_name_placeholder">ex. Routine de semaine</string>
+    <string name="builder_pick_slots">Choisir les cr\u00e9neaux</string>
+    <string name="builder_saving">Enregistrement\u2026</string>
+    <string name="builder_save">Enregistrer le mod\u00e8le</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Changer de mod\u00e8le de routine</string>
+    <string name="settings_switch_child">Changer d\'enfant</string>
+    <string name="settings_about_flinkis">\u00c0 propos de Flinkis</string>
+    <string name="settings_about_body">Cette application a été demandée avec amour par Nafisa, qui souhaitait la partager avec les enfants du monde entier. Flinkis est entièrement sans publicité et le restera toujours.</string>
+    <string name="settings_about_body2">Vous avez une idée pour une autre application pour enfants ? Visitez halallens.no ou écrivez-nous à mac@halallens.no \u2014 nous adorons avoir des nouvelles des familles !</string>
+    <string name="settings_edit_profile">Modifier le profil</string>
+    <string name="settings_choose_avatar">Choisir un avatar</string>
+    <string name="settings_name_label">Nom</string>
+    <string name="settings_theme_suffix">Th\u00e8me %s</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">Choisir un avatar :</string>
+    <string name="manage_children_theme">Th\u00e8me :</string>
+    <string name="manage_children_child_name">Nom de l\'enfant</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Retour \u00e0 aujourd\'hui</string>
+    <string name="today_yesterday">Hier</string>
+    <string name="today_tomorrow">Demain</string>
+    <string name="weekly_back_to_week">Retour \u00e0 cette semaine</string>
+    <string name="weekly_last_week">Semaine derni\u00e8re</string>
+    <string name="weekly_progress">Progression hebdomadaire</string>
+    <string name="weekly_completed_of" formatted="false">%d sur %d termin\u00e9s</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Jour pr\u00e9c\u00e9dent</string>
+    <string name="a11y_next_day">Jour suivant</string>
+    <string name="a11y_previous_week">Semaine pr\u00e9c\u00e9dente</string>
+    <string name="a11y_next_week">Semaine suivante</string>
+    <string name="a11y_back">Retour</string>
+    <string name="a11y_add_routine">Ajouter une routine</string>
+    <string name="a11y_add_child">Ajouter un enfant</string>
+    <string name="a11y_edit_profile">Modifier le profil</string>
+    <string name="a11y_completed">Termin\u00e9</string>
+    <string name="a11y_not_completed">Non termin\u00e9</string>
+    <string name="a11y_selected">S\u00e9lectionn\u00e9</string>
+    <string name="a11y_active">Actif</string>
+    <string name="a11y_points">Points</string>
+    <string name="a11y_streak">Jours cons\u00e9cutifs</string>
+    <string name="a11y_create_own">Cr\u00e9er le v\u00f4tre</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+    <string name="edit">Modifier</string>
+    <string name="add">Ajouter</string>
+    <string name="loading">Chargement\u2026</string>
+    <string name="your_name">Ton nom</string>
+    <string name="custom_suffix">(personnalis\u00e9)</string>
+    <string name="points_label">Points :</string>
+    <string name="points_format">%d pts</string>
+</resources>

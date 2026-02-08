@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">T\u00e4gliche Routinen f\u00fcr Kinder</string>
+    <string name="app_splash_subtitle">Werbefrei von halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Heute</string>
+    <string name="nav_weekly">W\u00f6chentlich</string>
+    <string name="nav_rewards">Belohnungen</string>
+    <string name="nav_settings">Einstellungen</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Willkommen bei Flinkis!</string>
+    <string name="onboarding_choose_theme">W\u00e4hle deinen Stil</string>
+    <string name="onboarding_theme_boy">Abenteuer</string>
+    <string name="onboarding_theme_girl">Glitzer</string>
+    <string name="onboarding_theme_neutral">Natur</string>
+    <string name="onboarding_whats_your_name">Wie hei\u00dft du?</string>
+    <string name="onboarding_pick_avatar">W\u00e4hle deinen Avatar</string>
+    <string name="onboarding_lets_go">Los geht\'s!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Heutige Routinen</string>
+    <string name="today_great_job">Super gemacht!</string>
+    <string name="today_all_done">Alles erledigt f\u00fcr heute!</string>
+    <string name="today_progress" formatted="false">%d von %d erledigt</string>
+    <string name="today_points_earned">+%d Punkte!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Morgen</string>
+    <string name="timeslot_school">Schule</string>
+    <string name="timeslot_afternoon">Nachmittag</string>
+    <string name="timeslot_evening">Abend</string>
+    <string name="timeslot_bedtime">Schlafenszeit</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">Aufstehen</string>
+    <string name="routine_make_bed">Bett machen</string>
+    <string name="routine_brush_teeth_morning">Z\u00e4hne putzen</string>
+    <string name="routine_get_dressed">Anziehen</string>
+    <string name="routine_eat_breakfast">Fr\u00fchst\u00fccken</string>
+    <string name="routine_pack_bag">Schultasche packen</string>
+    <string name="routine_homework">Hausaufgaben machen</string>
+    <string name="routine_read">15 Minuten lesen</string>
+    <string name="routine_outdoor_play">Drau\u00dfen spielen</string>
+    <string name="routine_clean_toys">Spielzeug aufr\u00e4umen</string>
+    <string name="routine_help_chores">Bei Hausarbeit helfen</string>
+    <string name="routine_eat_dinner">Abendessen</string>
+    <string name="routine_set_table">Tisch decken helfen</string>
+    <string name="routine_screen_free">Bildschirmfreie Zeit</string>
+    <string name="routine_brush_teeth_night">Z\u00e4hne putzen</string>
+    <string name="routine_pajamas">Schlafanzug anziehen</string>
+    <string name="routine_bedtime_story">Gute-Nacht-Geschichte lesen</string>
+    <string name="routine_lights_out">Licht aus p\u00fcnktlich</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Wochen\u00fcbersicht</string>
+    <string name="weekly_this_week">Diese Woche</string>
+    <string name="weekly_completion">%d%% erledigt</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">Belohnungen</string>
+    <string name="rewards_total_points">Gesamtpunkte</string>
+    <string name="rewards_streak">Tage in Folge</string>
+    <string name="rewards_milestones">Meilensteine</string>
+    <string name="rewards_badges">Abzeichen</string>
+    <string name="rewards_locked">Weiter so!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">Erster Stern!</string>
+    <string name="milestone_rising_star">Aufgehender Stern</string>
+    <string name="milestone_super_helper">Superhelfer</string>
+    <string name="milestone_champion">Champion</string>
+    <string name="milestone_legend">Legende</string>
+    <string name="milestone_week_warrior">Wochenkrieger</string>
+    <string name="milestone_monthly_master">Monatsmeister</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_routines">Routinen bearbeiten</string>
+    <string name="settings_routines_desc">Routinen hinzuf\u00fcgen, bearbeiten oder entfernen</string>
+    <string name="settings_children">Kinder verwalten</string>
+    <string name="settings_children_desc">Kinder hinzuf\u00fcgen oder wechseln</string>
+    <string name="settings_theme">Thema \u00e4ndern</string>
+    <string name="settings_theme_desc">Zwischen Abenteuer, Glitzer und Natur wechseln</string>
+    <string name="settings_language">Sprache</string>
+    <string name="settings_language_desc">App-Sprache ändern</string>
+    <string name="settings_print">Routine-Blatt drucken</string>
+    <string name="settings_print_desc">W\u00f6chentliche Routine-Checkliste drucken</string>
+    <string name="settings_about">\u00dcber</string>
+    <string name="settings_version">Version %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Routine bearbeiten</string>
+    <string name="edit_routine_add">Routine hinzuf\u00fcgen</string>
+    <string name="edit_routine_name">Routinenname</string>
+    <string name="edit_routine_points">Punkte</string>
+    <string name="edit_routine_time_slot">Zeitfenster</string>
+    <string name="edit_routine_days">Aktive Tage</string>
+    <string name="edit_routine_save">Speichern</string>
+    <string name="edit_routine_delete">L\u00f6schen</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">Kinder verwalten</string>
+    <string name="manage_children_add">Kind hinzuf\u00fcgen</string>
+    <string name="manage_children_switch">Zu %s wechseln</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Mo</string>
+    <string name="day_tue">Di</string>
+    <string name="day_wed">Mi</string>
+    <string name="day_thu">Do</string>
+    <string name="day_fri">Fr</string>
+    <string name="day_sat">Sa</string>
+    <string name="day_sun">So</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">W\u00e4hle eine Routine</string>
+    <string name="template_pick_subtitle">Vorlage w\u00e4hlen oder eigene erstellen</string>
+    <string name="template_routines_count" formatted="false">%d Routinen</string>
+    <string name="template_create_own">Eigene erstellen</string>
+    <string name="template_build_scratch">Von Grund auf erstellen</string>
+    <string name="template_switching_to">Wechsle zu %s</string>
+    <string name="template_replacing_count" formatted="false">Ersetzt %d aktuelle Routinen</string>
+    <string name="template_customize">Vor dem Anwenden anpassen:</string>
+    <string name="template_routines_selected" formatted="false">%d von %d Routinen ausgew\u00e4hlt</string>
+    <string name="template_applying">Wird angewendet\u2026</string>
+    <string name="template_apply_count" formatted="false">Anwenden (%d)</string>
+    <string name="template_category_general">Allgemein</string>
+    <string name="template_category_islamic">Islamisch</string>
+    <string name="template_category_custom">Meine Vorlagen</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Vorlage erstellen</string>
+    <string name="builder_name_prompt">Benenne deine Vorlage</string>
+    <string name="builder_name_placeholder">z.B. Wochentagsroutine</string>
+    <string name="builder_pick_slots">Zeitfenster w\u00e4hlen</string>
+    <string name="builder_saving">Speichern\u2026</string>
+    <string name="builder_save">Vorlage speichern</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Routine-Vorlage \u00e4ndern</string>
+    <string name="settings_switch_child">Kind wechseln</string>
+    <string name="settings_about_flinkis">\u00dcber Flinkis</string>
+    <string name="settings_about_body">Diese App wurde liebevoll von Nafisa gewünscht, die sie mit Kindern auf der ganzen Welt teilen wollte. Flinkis ist komplett werbefrei und wird es immer bleiben.</string>
+    <string name="settings_about_body2">Hast du eine Idee für eine weitere kinderfreundliche App? Besuche halallens.no oder schreib uns an mac@halallens.no \u2014 wir freuen uns von Familien zu hören!</string>
+    <string name="settings_edit_profile">Profil bearbeiten</string>
+    <string name="settings_choose_avatar">Avatar w\u00e4hlen</string>
+    <string name="settings_name_label">Name</string>
+    <string name="settings_theme_suffix">%s Thema</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">W\u00e4hle einen Avatar:</string>
+    <string name="manage_children_theme">Thema:</string>
+    <string name="manage_children_child_name">Name des Kindes</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Zur\u00fcck zu heute</string>
+    <string name="today_yesterday">Gestern</string>
+    <string name="today_tomorrow">Morgen</string>
+    <string name="weekly_back_to_week">Zur\u00fcck zu dieser Woche</string>
+    <string name="weekly_last_week">Letzte Woche</string>
+    <string name="weekly_progress">W\u00f6chentlicher Fortschritt</string>
+    <string name="weekly_completed_of" formatted="false">%d von %d erledigt</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Vorheriger Tag</string>
+    <string name="a11y_next_day">N\u00e4chster Tag</string>
+    <string name="a11y_previous_week">Vorherige Woche</string>
+    <string name="a11y_next_week">N\u00e4chste Woche</string>
+    <string name="a11y_back">Zur\u00fcck</string>
+    <string name="a11y_add_routine">Routine hinzuf\u00fcgen</string>
+    <string name="a11y_add_child">Kind hinzuf\u00fcgen</string>
+    <string name="a11y_edit_profile">Profil bearbeiten</string>
+    <string name="a11y_completed">Erledigt</string>
+    <string name="a11y_not_completed">Nicht erledigt</string>
+    <string name="a11y_selected">Ausgew\u00e4hlt</string>
+    <string name="a11y_active">Aktiv</string>
+    <string name="a11y_points">Punkte</string>
+    <string name="a11y_streak">Tage in Folge</string>
+    <string name="a11y_create_own">Eigene erstellen</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="delete">L\u00f6schen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="add">Hinzuf\u00fcgen</string>
+    <string name="loading">Laden\u2026</string>
+    <string name="your_name">Dein Name</string>
+    <string name="custom_suffix">(benutzerdefiniert)</string>
+    <string name="points_label">Punkte:</string>
+    <string name="points_format">%d Pkt</string>
+</resources>

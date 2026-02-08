@@ -1,0 +1,6 @@
+Initial release of MyRoutine - Kids Activity Tracker!
+
+- Daily routine checklists with reward points
+- Boy/Girl/Neutral themes
+- Multi-child support
+- Galaxy Tab optimized

@@ -1,0 +1,31 @@
+MyRoutine helps kids build healthy daily habits through a fun, interactive checklist with reward points!
+
+FEATURES:
+- Daily routine checklists grouped by time of day (Morning, School, Afternoon, Evening, Bedtime)
+- Reward points system with milestones and badges
+- Weekly progress view to track completion
+- Printable routine sheets for the fridge or school
+- Multiple child profiles with individual routines
+- Three fun themes: Adventure (blue), Sparkle (pink), Nature (green)
+- Optimized for Samsung Galaxy Tab and Android phones
+
+HOW IT WORKS:
+1. Choose a fun theme (Adventure, Sparkle, or Nature)
+2. Enter your child's name and pick an avatar
+3. Start checking off daily routines to earn points!
+4. Unlock badges and milestones as you go
+
+Parents can customize routines, add their own activities, and manage multiple children. Print weekly sheets so kids can check off tasks even without the tablet!
+
+Perfect for families who want to:
+- Build consistent morning and bedtime routines
+- Encourage responsibility and independence
+- Track homework and reading habits
+- Make chores fun with reward points
+
+PRIVACY:
+- Fully offline - no internet required
+- No ads, no tracking, no data collection
+- All data stays on your device
+
+Built with love by HalalLens.no

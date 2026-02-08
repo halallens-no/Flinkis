@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">روتين يومي للأطفال</string>
+    <string name="app_splash_subtitle">بدون إعلانات من halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">اليوم</string>
+    <string name="nav_weekly">أسبوعي</string>
+    <string name="nav_rewards">المكافآت</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">!مرحبًا في Flinkis</string>
+    <string name="onboarding_choose_theme">اختر أسلوبك</string>
+    <string name="onboarding_theme_boy">مغامرة</string>
+    <string name="onboarding_theme_girl">بريق</string>
+    <string name="onboarding_theme_neutral">طبيعة</string>
+    <string name="onboarding_whats_your_name">ما اسمك؟</string>
+    <string name="onboarding_pick_avatar">اختر صورتك الرمزية</string>
+    <string name="onboarding_lets_go">هيا بنا!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">روتين اليوم</string>
+    <string name="today_great_job">أحسنت!</string>
+    <string name="today_all_done">انتهيت من كل شيء اليوم!</string>
+    <string name="today_progress" formatted="false">%d من %d مكتمل</string>
+    <string name="today_points_earned">+%d نقاط!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">الصباح</string>
+    <string name="timeslot_school">المدرسة</string>
+    <string name="timeslot_afternoon">بعد الظهر</string>
+    <string name="timeslot_evening">المساء</string>
+    <string name="timeslot_bedtime">وقت النوم</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">استيقظ</string>
+    <string name="routine_make_bed">رتّب السرير</string>
+    <string name="routine_brush_teeth_morning">اغسل أسنانك</string>
+    <string name="routine_get_dressed">ارتدِ ملابسك</string>
+    <string name="routine_eat_breakfast">تناول الفطور</string>
+    <string name="routine_pack_bag">جهّز حقيبة المدرسة</string>
+    <string name="routine_homework">حلّ الواجبات</string>
+    <string name="routine_read">اقرأ لمدة 15 دقيقة</string>
+    <string name="routine_outdoor_play">اللعب في الخارج</string>
+    <string name="routine_clean_toys">رتّب الألعاب</string>
+    <string name="routine_help_chores">ساعد في الأعمال المنزلية</string>
+    <string name="routine_eat_dinner">تناول العشاء</string>
+    <string name="routine_set_table">ساعد في ترتيب الطاولة</string>
+    <string name="routine_screen_free">وقت بدون شاشات</string>
+    <string name="routine_brush_teeth_night">اغسل أسنانك</string>
+    <string name="routine_pajamas">ارتدِ ملابس النوم</string>
+    <string name="routine_bedtime_story">اقرأ قصة قبل النوم</string>
+    <string name="routine_lights_out">أطفئ الأنوار في الوقت المحدد</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">العرض الأسبوعي</string>
+    <string name="weekly_this_week">هذا الأسبوع</string>
+    <string name="weekly_completion">%d%% مكتمل</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">المكافآت</string>
+    <string name="rewards_total_points">إجمالي النقاط</string>
+    <string name="rewards_streak">أيام متتالية</string>
+    <string name="rewards_milestones">الإنجازات</string>
+    <string name="rewards_badges">الشارات</string>
+    <string name="rewards_locked">واصل!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">النجمة الأولى!</string>
+    <string name="milestone_rising_star">نجم صاعد</string>
+    <string name="milestone_super_helper">مساعد خارق</string>
+    <string name="milestone_champion">بطل</string>
+    <string name="milestone_legend">أسطورة</string>
+    <string name="milestone_week_warrior">محارب الأسبوع</string>
+    <string name="milestone_monthly_master">سيّد الشهر</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_routines">تعديل الروتين</string>
+    <string name="settings_routines_desc">إضافة أو تعديل أو حذف الروتين</string>
+    <string name="settings_children">إدارة الأطفال</string>
+    <string name="settings_children_desc">إضافة أو التبديل بين الأطفال</string>
+    <string name="settings_theme">تغيير المظهر</string>
+    <string name="settings_theme_desc">التبديل بين مغامرة وبريق وطبيعة</string>
+    <string name="settings_language">اللغة</string>
+    <string name="settings_language_desc">تغيير لغة التطبيق</string>
+    <string name="settings_print">طباعة ورقة الروتين</string>
+    <string name="settings_print_desc">طباعة قائمة روتين أسبوعية</string>
+    <string name="settings_about">حول</string>
+    <string name="settings_version">الإصدار %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">تعديل الروتين</string>
+    <string name="edit_routine_add">إضافة روتين</string>
+    <string name="edit_routine_name">اسم الروتين</string>
+    <string name="edit_routine_points">النقاط</string>
+    <string name="edit_routine_time_slot">الوقت</string>
+    <string name="edit_routine_days">الأيام النشطة</string>
+    <string name="edit_routine_save">حفظ</string>
+    <string name="edit_routine_delete">حذف</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">إدارة الأطفال</string>
+    <string name="manage_children_add">إضافة طفل</string>
+    <string name="manage_children_switch">التبديل إلى %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">اثن</string>
+    <string name="day_tue">ثلا</string>
+    <string name="day_wed">أرب</string>
+    <string name="day_thu">خمي</string>
+    <string name="day_fri">جمع</string>
+    <string name="day_sat">سبت</string>
+    <string name="day_sun">أحد</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">اختر روتينًا</string>
+    <string name="template_pick_subtitle">اختر قالبًا أو أنشئ قالبك الخاص</string>
+    <string name="template_routines_count" formatted="false">%d روتين</string>
+    <string name="template_create_own">أنشئ قالبك الخاص</string>
+    <string name="template_build_scratch">ابدأ من الصفر</string>
+    <string name="template_switching_to">التبديل إلى %s</string>
+    <string name="template_replacing_count" formatted="false">استبدال %d روتين حالي</string>
+    <string name="template_customize">تخصيص قبل التطبيق:</string>
+    <string name="template_routines_selected" formatted="false">%d من %d روتين محدد</string>
+    <string name="template_applying">جارٍ التطبيق\u2026</string>
+    <string name="template_apply_count" formatted="false">تطبيق (%d)</string>
+    <string name="template_category_general">عام</string>
+    <string name="template_category_islamic">إسلامي</string>
+    <string name="template_category_custom">قوالبي</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">إنشاء قالب</string>
+    <string name="builder_name_prompt">سمّ قالبك</string>
+    <string name="builder_name_placeholder">مثال: روتين يوم الأسبوع</string>
+    <string name="builder_pick_slots">اختر الأوقات</string>
+    <string name="builder_saving">جارٍ الحفظ\u2026</string>
+    <string name="builder_save">حفظ القالب</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">تغيير قالب الروتين</string>
+    <string name="settings_switch_child">تبديل الطفل</string>
+    <string name="settings_about_flinkis">حول Flinkis</string>
+    <string name="settings_about_body">هذا التطبيق طُلب بحب من نفيسة، التي أرادت مشاركته مع الأطفال في جميع أنحاء العالم. Flinkis خالٍ تمامًا من الإعلانات وسيبقى كذلك دائمًا.</string>
+    <string name="settings_about_body2">هل لديك فكرة لتطبيق آخر صديق للأطفال؟ قم بزيارة halallens.no أو أرسل لنا رسالة على mac@halallens.no \u2014 نحب أن نسمع من العائلات!</string>
+    <string name="settings_edit_profile">تعديل الملف الشخصي</string>
+    <string name="settings_choose_avatar">اختر صورة رمزية</string>
+    <string name="settings_name_label">الاسم</string>
+    <string name="settings_theme_suffix">مظهر %s</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">اختر صورة رمزية:</string>
+    <string name="manage_children_theme">المظهر:</string>
+    <string name="manage_children_child_name">اسم الطفل</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">العودة إلى اليوم</string>
+    <string name="today_yesterday">أمس</string>
+    <string name="today_tomorrow">غدًا</string>
+    <string name="weekly_back_to_week">العودة إلى هذا الأسبوع</string>
+    <string name="weekly_last_week">الأسبوع الماضي</string>
+    <string name="weekly_progress">تقدم الأسبوع</string>
+    <string name="weekly_completed_of" formatted="false">%d من %d مكتمل</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">اليوم السابق</string>
+    <string name="a11y_next_day">اليوم التالي</string>
+    <string name="a11y_previous_week">الأسبوع السابق</string>
+    <string name="a11y_next_week">الأسبوع التالي</string>
+    <string name="a11y_back">رجوع</string>
+    <string name="a11y_add_routine">إضافة روتين</string>
+    <string name="a11y_add_child">إضافة طفل</string>
+    <string name="a11y_edit_profile">تعديل الملف الشخصي</string>
+    <string name="a11y_completed">مكتمل</string>
+    <string name="a11y_not_completed">غير مكتمل</string>
+    <string name="a11y_selected">محدد</string>
+    <string name="a11y_active">نشط</string>
+    <string name="a11y_points">النقاط</string>
+    <string name="a11y_streak">التتابع</string>
+    <string name="a11y_create_own">أنشئ قالبك الخاص</string>
+
+    <!-- General -->
+    <string name="ok">حسنًا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="add">إضافة</string>
+    <string name="loading">جارٍ التحميل\u2026</string>
+    <string name="your_name">اسمك</string>
+    <string name="custom_suffix">(مخصص)</string>
+    <string name="points_label">النقاط:</string>
+    <string name="points_format">%d نقطة</string>
+</resources>

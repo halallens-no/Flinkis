@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Data extraction rules for Android 12+ backup.
+    See https://developer.android.com/about/versions/12/backup-restore
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Backup DataStore preferences -->
+        <include domain="file" path="datastore" />
+        <!-- Backup Room database -->
+        <include domain="database" path="myroutine_database" />
+    </cloud-backup>
+    <device-transfer>
+        <!-- Transfer DataStore preferences -->
+        <include domain="file" path="datastore" />
+        <!-- Transfer Room database -->
+        <include domain="database" path="myroutine_database" />
+    </device-transfer>
+</data-extraction-rules>

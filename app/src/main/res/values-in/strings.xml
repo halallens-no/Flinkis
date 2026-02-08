@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">Rutinitas Harian untuk Anak</string>
+    <string name="app_splash_subtitle">Bebas iklan oleh halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Hari Ini</string>
+    <string name="nav_weekly">Mingguan</string>
+    <string name="nav_rewards">Hadiah</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Selamat datang di Flinkis!</string>
+    <string name="onboarding_choose_theme">Pilih gayamu</string>
+    <string name="onboarding_theme_boy">Petualangan</string>
+    <string name="onboarding_theme_girl">Kilau</string>
+    <string name="onboarding_theme_neutral">Alam</string>
+    <string name="onboarding_whats_your_name">Siapa namamu?</string>
+    <string name="onboarding_pick_avatar">Pilih avatarmu</string>
+    <string name="onboarding_lets_go">Ayo mulai!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Rutinitas Hari Ini</string>
+    <string name="today_great_job">Hebat!</string>
+    <string name="today_all_done">Semua selesai hari ini!</string>
+    <string name="today_progress" formatted="false">%d dari %d selesai</string>
+    <string name="today_points_earned">+%d poin!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Pagi</string>
+    <string name="timeslot_school">Sekolah</string>
+    <string name="timeslot_afternoon">Siang</string>
+    <string name="timeslot_evening">Malam</string>
+    <string name="timeslot_bedtime">Tidur</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">Bangun</string>
+    <string name="routine_make_bed">Rapikan tempat tidur</string>
+    <string name="routine_brush_teeth_morning">Sikat gigi</string>
+    <string name="routine_get_dressed">Berpakaian</string>
+    <string name="routine_eat_breakfast">Sarapan</string>
+    <string name="routine_pack_bag">Siapkan tas sekolah</string>
+    <string name="routine_homework">Kerjakan PR</string>
+    <string name="routine_read">Baca 15 menit</string>
+    <string name="routine_outdoor_play">Bermain di luar</string>
+    <string name="routine_clean_toys">Rapikan mainan</string>
+    <string name="routine_help_chores">Bantu pekerjaan rumah</string>
+    <string name="routine_eat_dinner">Makan malam</string>
+    <string name="routine_set_table">Bantu menyiapkan meja</string>
+    <string name="routine_screen_free">Waktu tanpa layar</string>
+    <string name="routine_brush_teeth_night">Sikat gigi</string>
+    <string name="routine_pajamas">Pakai piyama</string>
+    <string name="routine_bedtime_story">Baca cerita sebelum tidur</string>
+    <string name="routine_lights_out">Lampu mati tepat waktu</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Tampilan Mingguan</string>
+    <string name="weekly_this_week">Minggu Ini</string>
+    <string name="weekly_completion">%d%% selesai</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">Hadiah</string>
+    <string name="rewards_total_points">Total Poin</string>
+    <string name="rewards_streak">Hari Berturut-turut</string>
+    <string name="rewards_milestones">Pencapaian</string>
+    <string name="rewards_badges">Lencana</string>
+    <string name="rewards_locked">Terus semangat!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">Bintang Pertama!</string>
+    <string name="milestone_rising_star">Bintang Naik</string>
+    <string name="milestone_super_helper">Super Penolong</string>
+    <string name="milestone_champion">Juara</string>
+    <string name="milestone_legend">Legenda</string>
+    <string name="milestone_week_warrior">Pejuang Mingguan</string>
+    <string name="milestone_monthly_master">Jawara Bulanan</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_routines">Edit Rutinitas</string>
+    <string name="settings_routines_desc">Tambah, edit, atau hapus rutinitas</string>
+    <string name="settings_children">Kelola Anak</string>
+    <string name="settings_children_desc">Tambah atau ganti antar anak</string>
+    <string name="settings_theme">Ubah Tema</string>
+    <string name="settings_theme_desc">Ganti antara Petualangan, Kilau, dan Alam</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="settings_language_desc">Ubah bahasa aplikasi</string>
+    <string name="settings_print">Cetak Lembar Rutinitas</string>
+    <string name="settings_print_desc">Cetak daftar rutinitas mingguan</string>
+    <string name="settings_about">Tentang</string>
+    <string name="settings_version">Versi %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Edit Rutinitas</string>
+    <string name="edit_routine_add">Tambah Rutinitas</string>
+    <string name="edit_routine_name">Nama rutinitas</string>
+    <string name="edit_routine_points">Poin</string>
+    <string name="edit_routine_time_slot">Waktu</string>
+    <string name="edit_routine_days">Hari aktif</string>
+    <string name="edit_routine_save">Simpan</string>
+    <string name="edit_routine_delete">Hapus</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">Kelola Anak</string>
+    <string name="manage_children_add">Tambah Anak</string>
+    <string name="manage_children_switch">Beralih ke %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Sen</string>
+    <string name="day_tue">Sel</string>
+    <string name="day_wed">Rab</string>
+    <string name="day_thu">Kam</string>
+    <string name="day_fri">Jum</string>
+    <string name="day_sat">Sab</string>
+    <string name="day_sun">Min</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">Pilih Rutinitas</string>
+    <string name="template_pick_subtitle">Pilih template atau buat sendiri</string>
+    <string name="template_routines_count" formatted="false">%d rutinitas</string>
+    <string name="template_create_own">Buat Sendiri</string>
+    <string name="template_build_scratch">Buat dari awal</string>
+    <string name="template_switching_to">Beralih ke %s</string>
+    <string name="template_replacing_count" formatted="false">Mengganti %d rutinitas saat ini</string>
+    <string name="template_customize">Sesuaikan sebelum menerapkan:</string>
+    <string name="template_routines_selected" formatted="false">%d dari %d rutinitas dipilih</string>
+    <string name="template_applying">Menerapkan\u2026</string>
+    <string name="template_apply_count" formatted="false">Terapkan (%d)</string>
+    <string name="template_category_general">Umum</string>
+    <string name="template_category_islamic">Islami</string>
+    <string name="template_category_custom">Template Saya</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Buat Template</string>
+    <string name="builder_name_prompt">Beri nama template</string>
+    <string name="builder_name_placeholder">mis. Rutinitas Hari Kerja</string>
+    <string name="builder_pick_slots">Pilih slot waktu</string>
+    <string name="builder_saving">Menyimpan\u2026</string>
+    <string name="builder_save">Simpan Template</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Ubah Template Rutinitas</string>
+    <string name="settings_switch_child">Ganti Anak</string>
+    <string name="settings_about_flinkis">Tentang Flinkis</string>
+    <string name="settings_about_body">Aplikasi ini dibuat dengan penuh cinta atas permintaan Nafisa, yang ingin membagikannya kepada anak-anak di seluruh dunia. Flinkis sepenuhnya bebas iklan dan akan selalu begitu.</string>
+    <string name="settings_about_body2">Punya ide untuk aplikasi ramah anak lainnya? Kunjungi halallens.no atau kirim pesan ke mac@halallens.no \u2014 kami senang mendengar dari keluarga!</string>
+    <string name="settings_edit_profile">Edit Profil</string>
+    <string name="settings_choose_avatar">Pilih Avatar</string>
+    <string name="settings_name_label">Nama</string>
+    <string name="settings_theme_suffix">Tema %s</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">Pilih avatar:</string>
+    <string name="manage_children_theme">Tema:</string>
+    <string name="manage_children_child_name">Nama anak</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Kembali ke hari ini</string>
+    <string name="today_yesterday">Kemarin</string>
+    <string name="today_tomorrow">Besok</string>
+    <string name="weekly_back_to_week">Kembali ke minggu ini</string>
+    <string name="weekly_last_week">Minggu Lalu</string>
+    <string name="weekly_progress">Progres Mingguan</string>
+    <string name="weekly_completed_of" formatted="false">%d dari %d selesai</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Hari sebelumnya</string>
+    <string name="a11y_next_day">Hari berikutnya</string>
+    <string name="a11y_previous_week">Minggu sebelumnya</string>
+    <string name="a11y_next_week">Minggu berikutnya</string>
+    <string name="a11y_back">Kembali</string>
+    <string name="a11y_add_routine">Tambah rutinitas</string>
+    <string name="a11y_add_child">Tambah anak</string>
+    <string name="a11y_edit_profile">Edit profil</string>
+    <string name="a11y_completed">Selesai</string>
+    <string name="a11y_not_completed">Belum selesai</string>
+    <string name="a11y_selected">Dipilih</string>
+    <string name="a11y_active">Aktif</string>
+    <string name="a11y_points">Poin</string>
+    <string name="a11y_streak">Berturut-turut</string>
+    <string name="a11y_create_own">Buat sendiri</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="add">Tambah</string>
+    <string name="loading">Memuat\u2026</string>
+    <string name="your_name">Namamu</string>
+    <string name="custom_suffix">(kustom)</string>
+    <string name="points_label">Poin:</string>
+    <string name="points_format">%d poin</string>
+</resources>

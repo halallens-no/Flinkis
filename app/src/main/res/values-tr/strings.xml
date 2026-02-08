@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">Çocuklar için Günlük Rutinler</string>
+    <string name="app_splash_subtitle">halallens.no tarafından reklamsız</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Bugün</string>
+    <string name="nav_weekly">Haftalık</string>
+    <string name="nav_rewards">Ödüller</string>
+    <string name="nav_settings">Ayarlar</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Flinkis\'e hoş geldin!</string>
+    <string name="onboarding_choose_theme">Tarzını seç</string>
+    <string name="onboarding_theme_boy">Macera</string>
+    <string name="onboarding_theme_girl">Işıltı</string>
+    <string name="onboarding_theme_neutral">Doğa</string>
+    <string name="onboarding_whats_your_name">Adın ne?</string>
+    <string name="onboarding_pick_avatar">Avatarını seç</string>
+    <string name="onboarding_lets_go">Hadi başlayalım!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Bugünün Rutinleri</string>
+    <string name="today_great_job">Harika!</string>
+    <string name="today_all_done">Bugünlük hepsi tamam!</string>
+    <string name="today_progress" formatted="false">%d / %d tamamlandı</string>
+    <string name="today_points_earned">+%d puan!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Sabah</string>
+    <string name="timeslot_school">Okul</string>
+    <string name="timeslot_afternoon">Öğleden Sonra</string>
+    <string name="timeslot_evening">Akşam</string>
+    <string name="timeslot_bedtime">Uyku Vakti</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">Uyan</string>
+    <string name="routine_make_bed">Yatağını topla</string>
+    <string name="routine_brush_teeth_morning">Dişlerini fırçala</string>
+    <string name="routine_get_dressed">Giyin</string>
+    <string name="routine_eat_breakfast">Kahvaltı et</string>
+    <string name="routine_pack_bag">Okul çantanı hazırla</string>
+    <string name="routine_homework">Ödevini yap</string>
+    <string name="routine_read">15 dakika oku</string>
+    <string name="routine_outdoor_play">Dışarıda oyna</string>
+    <string name="routine_clean_toys">Oyuncakları topla</string>
+    <string name="routine_help_chores">Ev işlerine yardım et</string>
+    <string name="routine_eat_dinner">Akşam yemeği ye</string>
+    <string name="routine_set_table">Sofra kurma yardımı</string>
+    <string name="routine_screen_free">Ekransız zaman</string>
+    <string name="routine_brush_teeth_night">Dişlerini fırçala</string>
+    <string name="routine_pajamas">Pijamanı giy</string>
+    <string name="routine_bedtime_story">Uyku öncesi hikaye oku</string>
+    <string name="routine_lights_out">Zamanında ışıkları söndür</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Haftalık Görünüm</string>
+    <string name="weekly_this_week">Bu Hafta</string>
+    <string name="weekly_completion">%d%% tamamlandı</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">Ödüller</string>
+    <string name="rewards_total_points">Toplam Puan</string>
+    <string name="rewards_streak">Ardışık Gün</string>
+    <string name="rewards_milestones">Kilometre Taşları</string>
+    <string name="rewards_badges">Rozetler</string>
+    <string name="rewards_locked">Devam et!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">İlk Yıldız!</string>
+    <string name="milestone_rising_star">Yükselen Yıldız</string>
+    <string name="milestone_super_helper">Süper Yardımcı</string>
+    <string name="milestone_champion">Şampiyon</string>
+    <string name="milestone_legend">Efsane</string>
+    <string name="milestone_week_warrior">Hafta Savaşçısı</string>
+    <string name="milestone_monthly_master">Aylık Usta</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_routines">Rutinleri Düzenle</string>
+    <string name="settings_routines_desc">Rutin ekle, düzenle veya kaldır</string>
+    <string name="settings_children">Çocukları Yönet</string>
+    <string name="settings_children_desc">Çocuk ekle veya çocuklar arasında geçiş yap</string>
+    <string name="settings_theme">Tema Değiştir</string>
+    <string name="settings_theme_desc">Macera, Işıltı ve Doğa arasında geçiş yap</string>
+    <string name="settings_language">Dil</string>
+    <string name="settings_language_desc">Uygulama dilini değiştir</string>
+    <string name="settings_print">Rutin Sayfasını Yazdır</string>
+    <string name="settings_print_desc">Haftalık rutin kontrol listesi yazdır</string>
+    <string name="settings_about">Hakkında</string>
+    <string name="settings_version">Sürüm %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Rutini Düzenle</string>
+    <string name="edit_routine_add">Rutin Ekle</string>
+    <string name="edit_routine_name">Rutin adı</string>
+    <string name="edit_routine_points">Puan</string>
+    <string name="edit_routine_time_slot">Zaman dilimi</string>
+    <string name="edit_routine_days">Aktif günler</string>
+    <string name="edit_routine_save">Kaydet</string>
+    <string name="edit_routine_delete">Sil</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">Çocukları Yönet</string>
+    <string name="manage_children_add">Çocuk Ekle</string>
+    <string name="manage_children_switch">%s\'e geç</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Pzt</string>
+    <string name="day_tue">Sal</string>
+    <string name="day_wed">Çar</string>
+    <string name="day_thu">Per</string>
+    <string name="day_fri">Cum</string>
+    <string name="day_sat">Cmt</string>
+    <string name="day_sun">Paz</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">Bir Rutin Seç</string>
+    <string name="template_pick_subtitle">Şablon seç veya kendi oluştur</string>
+    <string name="template_routines_count" formatted="false">%d rutin</string>
+    <string name="template_create_own">Kendin Oluştur</string>
+    <string name="template_build_scratch">Sıfırdan oluştur</string>
+    <string name="template_switching_to">%s\'e geçiliyor</string>
+    <string name="template_replacing_count" formatted="false">%d mevcut rutin değiştiriliyor</string>
+    <string name="template_customize">Uygulamadan önce özelleştir:</string>
+    <string name="template_routines_selected" formatted="false">%d / %d rutin seçildi</string>
+    <string name="template_applying">Uygulanıyor\u2026</string>
+    <string name="template_apply_count" formatted="false">Uygula (%d)</string>
+    <string name="template_category_general">Genel</string>
+    <string name="template_category_islamic">İslami</string>
+    <string name="template_category_custom">Şablonlarım</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Şablon Oluştur</string>
+    <string name="builder_name_prompt">Şablonuna isim ver</string>
+    <string name="builder_name_placeholder">ör. Hafta İçi Rutini</string>
+    <string name="builder_pick_slots">Zaman dilimlerini seç</string>
+    <string name="builder_saving">Kaydediliyor\u2026</string>
+    <string name="builder_save">Şablonu Kaydet</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Rutin Şablonunu Değiştir</string>
+    <string name="settings_switch_child">Çocuk Değiştir</string>
+    <string name="settings_about_flinkis">Flinkis Hakkında</string>
+    <string name="settings_about_body">Bu uygulama, dünya çapındaki çocuklarla paylaşmak isteyen Nafisa\'nın sevgi dolu isteği üzerine oluşturuldu. Flinkis tamamen reklamsızdır ve her zaman öyle kalacaktır.</string>
+    <string name="settings_about_body2">Çocuk dostu başka bir uygulama fikriniz mi var? halallens.no adresini ziyaret edin veya mac@halallens.no adresine bize yazın \u2014 ailelerden haber almayı çok seviyoruz!</string>
+    <string name="settings_edit_profile">Profili Düzenle</string>
+    <string name="settings_choose_avatar">Avatar Seç</string>
+    <string name="settings_name_label">Ad</string>
+    <string name="settings_theme_suffix">%s teması</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">Bir avatar seç:</string>
+    <string name="manage_children_theme">Tema:</string>
+    <string name="manage_children_child_name">Çocuğun adı</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Bugüne dön</string>
+    <string name="today_yesterday">Dün</string>
+    <string name="today_tomorrow">Yarın</string>
+    <string name="weekly_back_to_week">Bu haftaya dön</string>
+    <string name="weekly_last_week">Geçen Hafta</string>
+    <string name="weekly_progress">Haftalık İlerleme</string>
+    <string name="weekly_completed_of" formatted="false">%d / %d tamamlandı</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Önceki gün</string>
+    <string name="a11y_next_day">Sonraki gün</string>
+    <string name="a11y_previous_week">Önceki hafta</string>
+    <string name="a11y_next_week">Sonraki hafta</string>
+    <string name="a11y_back">Geri</string>
+    <string name="a11y_add_routine">Rutin ekle</string>
+    <string name="a11y_add_child">Çocuk ekle</string>
+    <string name="a11y_edit_profile">Profili düzenle</string>
+    <string name="a11y_completed">Tamamlandı</string>
+    <string name="a11y_not_completed">Tamamlanmadı</string>
+    <string name="a11y_selected">Seçili</string>
+    <string name="a11y_active">Aktif</string>
+    <string name="a11y_points">Puan</string>
+    <string name="a11y_streak">Ardışık gün</string>
+    <string name="a11y_create_own">Kendin oluştur</string>
+
+    <!-- General -->
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    <string name="edit">Düzenle</string>
+    <string name="add">Ekle</string>
+    <string name="loading">Yükleniyor\u2026</string>
+    <string name="your_name">Adın</string>
+    <string name="custom_suffix">(özel)</string>
+    <string name="points_label">Puan:</string>
+    <string name="points_format">%d puan</string>
+</resources>

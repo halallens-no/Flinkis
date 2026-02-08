@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">Daglige rutiner for b\u00f8rn</string>
+    <string name="app_splash_subtitle">Reklamefri fra halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">I dag</string>
+    <string name="nav_weekly">Ugentlig</string>
+    <string name="nav_rewards">Bel\u00f8nninger</string>
+    <string name="nav_settings">Indstillinger</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Velkommen til Flinkis!</string>
+    <string name="onboarding_choose_theme">V\u00e6lg din stil</string>
+    <string name="onboarding_theme_boy">Eventyr</string>
+    <string name="onboarding_theme_girl">Glimmer</string>
+    <string name="onboarding_theme_neutral">Natur</string>
+    <string name="onboarding_whats_your_name">Hvad hedder du?</string>
+    <string name="onboarding_pick_avatar">V\u00e6lg din avatar</string>
+    <string name="onboarding_lets_go">Lad os g\u00e5!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Dagens rutiner</string>
+    <string name="today_great_job">Godt klaret!</string>
+    <string name="today_all_done">Alt klaret for i dag!</string>
+    <string name="today_progress" formatted="false">%d af %d f\u00e6rdige</string>
+    <string name="today_points_earned">+%d point!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Morgen</string>
+    <string name="timeslot_school">Skole</string>
+    <string name="timeslot_afternoon">Eftermiddag</string>
+    <string name="timeslot_evening">Aften</string>
+    <string name="timeslot_bedtime">Sengetid</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">V\u00e5gn op</string>
+    <string name="routine_make_bed">Red sengen</string>
+    <string name="routine_brush_teeth_morning">B\u00f8rst t\u00e6nder</string>
+    <string name="routine_get_dressed">Tag t\u00f8j p\u00e5</string>
+    <string name="routine_eat_breakfast">Spis morgenmad</string>
+    <string name="routine_pack_bag">Pak skoletasken</string>
+    <string name="routine_homework">Lav lektier</string>
+    <string name="routine_read">L\u00e6s i 15 minutter</string>
+    <string name="routine_outdoor_play">Udeleg</string>
+    <string name="routine_clean_toys">Ryd op i leget\u00f8j</string>
+    <string name="routine_help_chores">Hj\u00e6lp med husarbejde</string>
+    <string name="routine_eat_dinner">Spis aftensmad</string>
+    <string name="routine_set_table">Hj\u00e6lp med at d\u00e6kke bord</string>
+    <string name="routine_screen_free">Sk\u00e6rmfri tid</string>
+    <string name="routine_brush_teeth_night">B\u00f8rst t\u00e6nder</string>
+    <string name="routine_pajamas">Tag pyjamas p\u00e5</string>
+    <string name="routine_bedtime_story">L\u00e6s godnathistorie</string>
+    <string name="routine_lights_out">Sluk lyset til tiden</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Ugeoversigt</string>
+    <string name="weekly_this_week">Denne uge</string>
+    <string name="weekly_completion">%d%% f\u00e6rdig</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">Bel\u00f8nninger</string>
+    <string name="rewards_total_points">Total point</string>
+    <string name="rewards_streak">Dage i tr\u00e6k</string>
+    <string name="rewards_milestones">Milep\u00e6le</string>
+    <string name="rewards_badges">M\u00e6rker</string>
+    <string name="rewards_locked">Forts\u00e6t!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">F\u00f8rste stjerne!</string>
+    <string name="milestone_rising_star">Stigende stjerne</string>
+    <string name="milestone_super_helper">Superhj\u00e6lper</string>
+    <string name="milestone_champion">Mester</string>
+    <string name="milestone_legend">Legende</string>
+    <string name="milestone_week_warrior">Ugekriger</string>
+    <string name="milestone_monthly_master">M\u00e5nedsmester</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Indstillinger</string>
+    <string name="settings_routines">Rediger rutiner</string>
+    <string name="settings_routines_desc">Tilf\u00f8j, rediger eller fjern rutiner</string>
+    <string name="settings_children">Administrer b\u00f8rn</string>
+    <string name="settings_children_desc">Tilf\u00f8j eller skift mellem b\u00f8rn</string>
+    <string name="settings_theme">Skift tema</string>
+    <string name="settings_theme_desc">Skift mellem Eventyr, Glimmer og Natur</string>
+    <string name="settings_language">Sprog</string>
+    <string name="settings_language_desc">Skift app-sprog</string>
+    <string name="settings_print">Udskriv rutineark</string>
+    <string name="settings_print_desc">Udskriv en ugentlig rutinetjekliste</string>
+    <string name="settings_about">Om</string>
+    <string name="settings_version">Version %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Rediger rutine</string>
+    <string name="edit_routine_add">Tilf\u00f8j rutine</string>
+    <string name="edit_routine_name">Rutinenavn</string>
+    <string name="edit_routine_points">Point</string>
+    <string name="edit_routine_time_slot">Tidspunkt</string>
+    <string name="edit_routine_days">Aktive dage</string>
+    <string name="edit_routine_save">Gem</string>
+    <string name="edit_routine_delete">Slet</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">Administrer b\u00f8rn</string>
+    <string name="manage_children_add">Tilf\u00f8j barn</string>
+    <string name="manage_children_switch">Skift til %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Man</string>
+    <string name="day_tue">Tir</string>
+    <string name="day_wed">Ons</string>
+    <string name="day_thu">Tor</string>
+    <string name="day_fri">Fre</string>
+    <string name="day_sat">L\u00f8r</string>
+    <string name="day_sun">S\u00f8n</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">V\u00e6lg en rutine</string>
+    <string name="template_pick_subtitle">V\u00e6lg en skabelon eller lav din egen</string>
+    <string name="template_routines_count" formatted="false">%d rutiner</string>
+    <string name="template_create_own">Lav din egen</string>
+    <string name="template_build_scratch">Byg fra bunden</string>
+    <string name="template_switching_to">Skifter til %s</string>
+    <string name="template_replacing_count" formatted="false">Erstatter %d nuv\u00e6rende rutiner</string>
+    <string name="template_customize">Tilpas f\u00f8r anvendelse:</string>
+    <string name="template_routines_selected" formatted="false">%d af %d rutiner valgt</string>
+    <string name="template_applying">Anvender\u2026</string>
+    <string name="template_apply_count" formatted="false">Anvend (%d)</string>
+    <string name="template_category_general">Generelt</string>
+    <string name="template_category_islamic">Islamisk</string>
+    <string name="template_category_custom">Mine skabeloner</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Opret skabelon</string>
+    <string name="builder_name_prompt">Navngiv din skabelon</string>
+    <string name="builder_name_placeholder">f.eks. Hverdagsrutine</string>
+    <string name="builder_pick_slots">V\u00e6lg tidspunkter</string>
+    <string name="builder_saving">Gemmer\u2026</string>
+    <string name="builder_save">Gem skabelon</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Skift rutineskabelon</string>
+    <string name="settings_switch_child">Skift barn</string>
+    <string name="settings_about_flinkis">Om Flinkis</string>
+    <string name="settings_about_body">Denne app blev kærligt efterspurgt af Nafisa, som ønskede at dele den med børn over hele verden. Flinkis er helt reklamefri og vil altid være det.</string>
+    <string name="settings_about_body2">Har du en idé til en anden børnevenlig app? Besøg halallens.no eller send os en besked på mac@halallens.no \u2014 vi elsker at høre fra familier!</string>
+    <string name="settings_edit_profile">Rediger profil</string>
+    <string name="settings_choose_avatar">V\u00e6lg avatar</string>
+    <string name="settings_name_label">Navn</string>
+    <string name="settings_theme_suffix">%s tema</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">V\u00e6lg en avatar:</string>
+    <string name="manage_children_theme">Tema:</string>
+    <string name="manage_children_child_name">Barnets navn</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Tilbage til i dag</string>
+    <string name="today_yesterday">I g\u00e5r</string>
+    <string name="today_tomorrow">I morgen</string>
+    <string name="weekly_back_to_week">Tilbage til denne uge</string>
+    <string name="weekly_last_week">Sidste uge</string>
+    <string name="weekly_progress">Ugentlig fremgang</string>
+    <string name="weekly_completed_of" formatted="false">%d af %d f\u00e6rdige</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Forrige dag</string>
+    <string name="a11y_next_day">N\u00e6ste dag</string>
+    <string name="a11y_previous_week">Forrige uge</string>
+    <string name="a11y_next_week">N\u00e6ste uge</string>
+    <string name="a11y_back">Tilbage</string>
+    <string name="a11y_add_routine">Tilf\u00f8j rutine</string>
+    <string name="a11y_add_child">Tilf\u00f8j barn</string>
+    <string name="a11y_edit_profile">Rediger profil</string>
+    <string name="a11y_completed">F\u00e6rdig</string>
+    <string name="a11y_not_completed">Ikke f\u00e6rdig</string>
+    <string name="a11y_selected">Valgt</string>
+    <string name="a11y_active">Aktiv</string>
+    <string name="a11y_points">Point</string>
+    <string name="a11y_streak">Dage i tr\u00e6k</string>
+    <string name="a11y_create_own">Lav din egen</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Annuller</string>
+    <string name="save">Gem</string>
+    <string name="delete">Slet</string>
+    <string name="edit">Rediger</string>
+    <string name="add">Tilf\u00f8j</string>
+    <string name="loading">Indl\u00e6ser\u2026</string>
+    <string name="your_name">Dit navn</string>
+    <string name="custom_suffix">(tilpasset)</string>
+    <string name="points_label">Point:</string>
+    <string name="points_format">%d pt</string>
+</resources>

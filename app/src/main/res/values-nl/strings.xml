@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">Dagelijkse routines voor kinderen</string>
+    <string name="app_splash_subtitle">Advertentievrij door halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Vandaag</string>
+    <string name="nav_weekly">Wekelijks</string>
+    <string name="nav_rewards">Beloningen</string>
+    <string name="nav_settings">Instellingen</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Welkom bij Flinkis!</string>
+    <string name="onboarding_choose_theme">Kies je stijl</string>
+    <string name="onboarding_theme_boy">Avontuur</string>
+    <string name="onboarding_theme_girl">Glitter</string>
+    <string name="onboarding_theme_neutral">Natuur</string>
+    <string name="onboarding_whats_your_name">Hoe heet je?</string>
+    <string name="onboarding_pick_avatar">Kies je avatar</string>
+    <string name="onboarding_lets_go">Laten we gaan!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Routines van vandaag</string>
+    <string name="today_great_job">Goed gedaan!</string>
+    <string name="today_all_done">Alles klaar voor vandaag!</string>
+    <string name="today_progress" formatted="false">%d van %d voltooid</string>
+    <string name="today_points_earned">+%d punten!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Ochtend</string>
+    <string name="timeslot_school">School</string>
+    <string name="timeslot_afternoon">Middag</string>
+    <string name="timeslot_evening">Avond</string>
+    <string name="timeslot_bedtime">Bedtijd</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">Opstaan</string>
+    <string name="routine_make_bed">Bed opmaken</string>
+    <string name="routine_brush_teeth_morning">Tanden poetsen</string>
+    <string name="routine_get_dressed">Aankleden</string>
+    <string name="routine_eat_breakfast">Ontbijten</string>
+    <string name="routine_pack_bag">Schooltas inpakken</string>
+    <string name="routine_homework">Huiswerk maken</string>
+    <string name="routine_read">15 minuten lezen</string>
+    <string name="routine_outdoor_play">Buiten spelen</string>
+    <string name="routine_clean_toys">Speelgoed opruimen</string>
+    <string name="routine_help_chores">Helpen met klusjes</string>
+    <string name="routine_eat_dinner">Avondeten</string>
+    <string name="routine_set_table">Tafel dekken</string>
+    <string name="routine_screen_free">Schermvrije tijd</string>
+    <string name="routine_brush_teeth_night">Tanden poetsen</string>
+    <string name="routine_pajamas">Pyjama aantrekken</string>
+    <string name="routine_bedtime_story">Voorleesverhaal</string>
+    <string name="routine_lights_out">Licht uit op tijd</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Weekoverzicht</string>
+    <string name="weekly_this_week">Deze week</string>
+    <string name="weekly_completion">%d%% voltooid</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">Beloningen</string>
+    <string name="rewards_total_points">Totaal punten</string>
+    <string name="rewards_streak">Dagen op rij</string>
+    <string name="rewards_milestones">Mijlpalen</string>
+    <string name="rewards_badges">Badges</string>
+    <string name="rewards_locked">Ga zo door!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">Eerste ster!</string>
+    <string name="milestone_rising_star">Rijzende ster</string>
+    <string name="milestone_super_helper">Superhelper</string>
+    <string name="milestone_champion">Kampioen</string>
+    <string name="milestone_legend">Legende</string>
+    <string name="milestone_week_warrior">Weekstrijder</string>
+    <string name="milestone_monthly_master">Maandmeester</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_routines">Routines bewerken</string>
+    <string name="settings_routines_desc">Routines toevoegen, bewerken of verwijderen</string>
+    <string name="settings_children">Kinderen beheren</string>
+    <string name="settings_children_desc">Kinderen toevoegen of wisselen</string>
+    <string name="settings_theme">Thema wijzigen</string>
+    <string name="settings_theme_desc">Wissel tussen Avontuur, Glitter en Natuur</string>
+    <string name="settings_language">Taal</string>
+    <string name="settings_language_desc">App-taal wijzigen</string>
+    <string name="settings_print">Routineblad afdrukken</string>
+    <string name="settings_print_desc">Druk een wekelijkse routinechecklist af</string>
+    <string name="settings_about">Over</string>
+    <string name="settings_version">Versie %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Routine bewerken</string>
+    <string name="edit_routine_add">Routine toevoegen</string>
+    <string name="edit_routine_name">Routinenaam</string>
+    <string name="edit_routine_points">Punten</string>
+    <string name="edit_routine_time_slot">Tijdslot</string>
+    <string name="edit_routine_days">Actieve dagen</string>
+    <string name="edit_routine_save">Opslaan</string>
+    <string name="edit_routine_delete">Verwijderen</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">Kinderen beheren</string>
+    <string name="manage_children_add">Kind toevoegen</string>
+    <string name="manage_children_switch">Wisselen naar %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Ma</string>
+    <string name="day_tue">Di</string>
+    <string name="day_wed">Wo</string>
+    <string name="day_thu">Do</string>
+    <string name="day_fri">Vr</string>
+    <string name="day_sat">Za</string>
+    <string name="day_sun">Zo</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">Kies een routine</string>
+    <string name="template_pick_subtitle">Kies een sjabloon of maak je eigen</string>
+    <string name="template_routines_count" formatted="false">%d routines</string>
+    <string name="template_create_own">Maak je eigen</string>
+    <string name="template_build_scratch">Vanaf nul opbouwen</string>
+    <string name="template_switching_to">Wisselen naar %s</string>
+    <string name="template_replacing_count" formatted="false">%d huidige routines vervangen</string>
+    <string name="template_customize">Aanpassen voor toepassing:</string>
+    <string name="template_routines_selected" formatted="false">%d van %d routines geselecteerd</string>
+    <string name="template_applying">Toepassen\u2026</string>
+    <string name="template_apply_count" formatted="false">Toepassen (%d)</string>
+    <string name="template_category_general">Algemeen</string>
+    <string name="template_category_islamic">Islamitisch</string>
+    <string name="template_category_custom">Mijn sjablonen</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Sjabloon maken</string>
+    <string name="builder_name_prompt">Geef je sjabloon een naam</string>
+    <string name="builder_name_placeholder">bijv. Doordeweekse routine</string>
+    <string name="builder_pick_slots">Kies tijdslots</string>
+    <string name="builder_saving">Opslaan\u2026</string>
+    <string name="builder_save">Sjabloon opslaan</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Routinesjabloon wijzigen</string>
+    <string name="settings_switch_child">Kind wisselen</string>
+    <string name="settings_about_flinkis">Over Flinkis</string>
+    <string name="settings_about_body">Deze app is met liefde aangevraagd door Nafisa, die hem wilde delen met kinderen over de hele wereld. Flinkis is volledig advertentievrij en zal dat altijd blijven.</string>
+    <string name="settings_about_body2">Heb je een idee voor een andere kindvriendelijke app? Bezoek halallens.no of stuur ons een bericht op mac@halallens.no \u2014 we horen graag van gezinnen!</string>
+    <string name="settings_edit_profile">Profiel bewerken</string>
+    <string name="settings_choose_avatar">Kies avatar</string>
+    <string name="settings_name_label">Naam</string>
+    <string name="settings_theme_suffix">%s thema</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">Kies een avatar:</string>
+    <string name="manage_children_theme">Thema:</string>
+    <string name="manage_children_child_name">Naam van het kind</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Terug naar vandaag</string>
+    <string name="today_yesterday">Gisteren</string>
+    <string name="today_tomorrow">Morgen</string>
+    <string name="weekly_back_to_week">Terug naar deze week</string>
+    <string name="weekly_last_week">Vorige week</string>
+    <string name="weekly_progress">Weekvoortgang</string>
+    <string name="weekly_completed_of" formatted="false">%d van %d voltooid</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Vorige dag</string>
+    <string name="a11y_next_day">Volgende dag</string>
+    <string name="a11y_previous_week">Vorige week</string>
+    <string name="a11y_next_week">Volgende week</string>
+    <string name="a11y_back">Terug</string>
+    <string name="a11y_add_routine">Routine toevoegen</string>
+    <string name="a11y_add_child">Kind toevoegen</string>
+    <string name="a11y_edit_profile">Profiel bewerken</string>
+    <string name="a11y_completed">Voltooid</string>
+    <string name="a11y_not_completed">Niet voltooid</string>
+    <string name="a11y_selected">Geselecteerd</string>
+    <string name="a11y_active">Actief</string>
+    <string name="a11y_points">Punten</string>
+    <string name="a11y_streak">Op rij</string>
+    <string name="a11y_create_own">Maak je eigen</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleren</string>
+    <string name="save">Opslaan</string>
+    <string name="delete">Verwijderen</string>
+    <string name="edit">Bewerken</string>
+    <string name="add">Toevoegen</string>
+    <string name="loading">Laden\u2026</string>
+    <string name="your_name">Je naam</string>
+    <string name="custom_suffix">(aangepast)</string>
+    <string name="points_label">Punten:</string>
+    <string name="points_format">%d ptn</string>
+</resources>

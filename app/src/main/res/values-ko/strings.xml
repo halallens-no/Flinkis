@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">어린이 일일 루틴</string>
+    <string name="app_splash_subtitle">halallens.no의 광고 없는 앱</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">오늘</string>
+    <string name="nav_weekly">주간</string>
+    <string name="nav_rewards">보상</string>
+    <string name="nav_settings">설정</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Flinkis에 오신 걸 환영해요!</string>
+    <string name="onboarding_choose_theme">스타일을 선택하세요</string>
+    <string name="onboarding_theme_boy">모험</string>
+    <string name="onboarding_theme_girl">반짝이</string>
+    <string name="onboarding_theme_neutral">자연</string>
+    <string name="onboarding_whats_your_name">이름이 뭐예요?</string>
+    <string name="onboarding_pick_avatar">아바타를 골라보세요</string>
+    <string name="onboarding_lets_go">시작해요!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">오늘의 루틴</string>
+    <string name="today_great_job">잘했어요!</string>
+    <string name="today_all_done">오늘 할 일을 다 했어요!</string>
+    <string name="today_progress" formatted="false">%d / %d 완료</string>
+    <string name="today_points_earned">+%d 포인트!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">아침</string>
+    <string name="timeslot_school">학교</string>
+    <string name="timeslot_afternoon">오후</string>
+    <string name="timeslot_evening">저녁</string>
+    <string name="timeslot_bedtime">취침</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">일어나기</string>
+    <string name="routine_make_bed">이불 정리</string>
+    <string name="routine_brush_teeth_morning">양치하기</string>
+    <string name="routine_get_dressed">옷 입기</string>
+    <string name="routine_eat_breakfast">아침 먹기</string>
+    <string name="routine_pack_bag">학교 가방 챙기기</string>
+    <string name="routine_homework">숙제하기</string>
+    <string name="routine_read">15분 읽기</string>
+    <string name="routine_outdoor_play">바깥 놀이</string>
+    <string name="routine_clean_toys">장난감 정리</string>
+    <string name="routine_help_chores">집안일 돕기</string>
+    <string name="routine_eat_dinner">저녁 먹기</string>
+    <string name="routine_set_table">식탁 차리기 돕기</string>
+    <string name="routine_screen_free">화면 없는 시간</string>
+    <string name="routine_brush_teeth_night">양치하기</string>
+    <string name="routine_pajamas">잠옷 입기</string>
+    <string name="routine_bedtime_story">자기 전 동화</string>
+    <string name="routine_lights_out">제시간에 불 끄기</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">주간 보기</string>
+    <string name="weekly_this_week">이번 주</string>
+    <string name="weekly_completion">%d%% 완료</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">보상</string>
+    <string name="rewards_total_points">총 포인트</string>
+    <string name="rewards_streak">연속 일수</string>
+    <string name="rewards_milestones">마일스톤</string>
+    <string name="rewards_badges">배지</string>
+    <string name="rewards_locked">계속 힘내요!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">첫 번째 별!</string>
+    <string name="milestone_rising_star">떠오르는 별</string>
+    <string name="milestone_super_helper">슈퍼 도우미</string>
+    <string name="milestone_champion">챔피언</string>
+    <string name="milestone_legend">전설</string>
+    <string name="milestone_week_warrior">일주일 전사</string>
+    <string name="milestone_monthly_master">월간 달인</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">설정</string>
+    <string name="settings_routines">루틴 수정</string>
+    <string name="settings_routines_desc">루틴 추가, 수정, 삭제</string>
+    <string name="settings_children">자녀 관리</string>
+    <string name="settings_children_desc">자녀 추가 또는 전환</string>
+    <string name="settings_theme">테마 변경</string>
+    <string name="settings_theme_desc">모험, 반짝이, 자연 테마 전환</string>
+    <string name="settings_language">언어</string>
+    <string name="settings_language_desc">앱 언어 변경</string>
+    <string name="settings_print">루틴 시트 인쇄</string>
+    <string name="settings_print_desc">주간 루틴 체크리스트 인쇄</string>
+    <string name="settings_about">정보</string>
+    <string name="settings_version">버전 %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">루틴 수정</string>
+    <string name="edit_routine_add">루틴 추가</string>
+    <string name="edit_routine_name">루틴 이름</string>
+    <string name="edit_routine_points">포인트</string>
+    <string name="edit_routine_time_slot">시간대</string>
+    <string name="edit_routine_days">활동 요일</string>
+    <string name="edit_routine_save">저장</string>
+    <string name="edit_routine_delete">삭제</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">자녀 관리</string>
+    <string name="manage_children_add">자녀 추가</string>
+    <string name="manage_children_switch">%s(으)로 전환</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">월</string>
+    <string name="day_tue">화</string>
+    <string name="day_wed">수</string>
+    <string name="day_thu">목</string>
+    <string name="day_fri">금</string>
+    <string name="day_sat">토</string>
+    <string name="day_sun">일</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">루틴 선택</string>
+    <string name="template_pick_subtitle">템플릿을 선택하거나 직접 만드세요</string>
+    <string name="template_routines_count" formatted="false">%d개 루틴</string>
+    <string name="template_create_own">직접 만들기</string>
+    <string name="template_build_scratch">처음부터 만들기</string>
+    <string name="template_switching_to">%s(으)로 전환 중</string>
+    <string name="template_replacing_count" formatted="false">현재 %d개 루틴 교체</string>
+    <string name="template_customize">적용 전 맞춤 설정:</string>
+    <string name="template_routines_selected" formatted="false">%d / %d개 루틴 선택</string>
+    <string name="template_applying">적용 중\u2026</string>
+    <string name="template_apply_count" formatted="false">적용 (%d)</string>
+    <string name="template_category_general">일반</string>
+    <string name="template_category_islamic">이슬람</string>
+    <string name="template_category_custom">내 템플릿</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">템플릿 만들기</string>
+    <string name="builder_name_prompt">템플릿 이름을 지어주세요</string>
+    <string name="builder_name_placeholder">예: 평일 루틴</string>
+    <string name="builder_pick_slots">시간대를 선택하세요</string>
+    <string name="builder_saving">저장 중\u2026</string>
+    <string name="builder_save">템플릿 저장</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">루틴 템플릿 변경</string>
+    <string name="settings_switch_child">자녀 전환</string>
+    <string name="settings_about_flinkis">Flinkis 정보</string>
+    <string name="settings_about_body">이 앱은 전 세계 어린이들과 나누고 싶었던 나피사의 사랑스러운 요청으로 만들어졌습니다. Flinkis는 완전히 광고가 없으며 앞으로도 그럴 것입니다.</string>
+    <string name="settings_about_body2">어린이 친화적인 앱 아이디어가 있으신가요? halallens.no를 방문하거나 mac@halallens.no로 메시지를 보내주세요 \u2014 가족 여러분의 이야기를 듣고 싶어요!</string>
+    <string name="settings_edit_profile">프로필 수정</string>
+    <string name="settings_choose_avatar">아바타 선택</string>
+    <string name="settings_name_label">이름</string>
+    <string name="settings_theme_suffix">%s 테마</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">아바타를 골라주세요:</string>
+    <string name="manage_children_theme">테마:</string>
+    <string name="manage_children_child_name">자녀 이름</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">오늘로 돌아가기</string>
+    <string name="today_yesterday">어제</string>
+    <string name="today_tomorrow">내일</string>
+    <string name="weekly_back_to_week">이번 주로 돌아가기</string>
+    <string name="weekly_last_week">지난주</string>
+    <string name="weekly_progress">주간 진행 상황</string>
+    <string name="weekly_completed_of" formatted="false">%d / %d 완료</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">이전 날</string>
+    <string name="a11y_next_day">다음 날</string>
+    <string name="a11y_previous_week">이전 주</string>
+    <string name="a11y_next_week">다음 주</string>
+    <string name="a11y_back">뒤로</string>
+    <string name="a11y_add_routine">루틴 추가</string>
+    <string name="a11y_add_child">자녀 추가</string>
+    <string name="a11y_edit_profile">프로필 수정</string>
+    <string name="a11y_completed">완료</string>
+    <string name="a11y_not_completed">미완료</string>
+    <string name="a11y_selected">선택됨</string>
+    <string name="a11y_active">활성</string>
+    <string name="a11y_points">포인트</string>
+    <string name="a11y_streak">연속</string>
+    <string name="a11y_create_own">직접 만들기</string>
+
+    <!-- General -->
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="save">저장</string>
+    <string name="delete">삭제</string>
+    <string name="edit">수정</string>
+    <string name="add">추가</string>
+    <string name="loading">로딩 중\u2026</string>
+    <string name="your_name">이름</string>
+    <string name="custom_suffix">(커스텀)</string>
+    <string name="points_label">포인트:</string>
+    <string name="points_format">%d점</string>
+</resources>

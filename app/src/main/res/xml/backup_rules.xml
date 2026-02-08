@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Backup rules for Android Auto Backup.
+    See https://developer.android.com/guide/topics/data/autobackup
+-->
+<full-backup-content>
+    <!-- Backup DataStore preferences -->
+    <include domain="file" path="datastore" />
+    <!-- Backup Room database -->
+    <include domain="database" path="myroutine_database" />
+</full-backup-content>

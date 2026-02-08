@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">こどものデイリールーティン</string>
+    <string name="app_splash_subtitle">halallens.noによる広告なし</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">今日</string>
+    <string name="nav_weekly">週間</string>
+    <string name="nav_rewards">ごほうび</string>
+    <string name="nav_settings">設定</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Flinkisへようこそ！</string>
+    <string name="onboarding_choose_theme">スタイルを選ぼう</string>
+    <string name="onboarding_theme_boy">アドベンチャー</string>
+    <string name="onboarding_theme_girl">キラキラ</string>
+    <string name="onboarding_theme_neutral">しぜん</string>
+    <string name="onboarding_whats_your_name">おなまえは？</string>
+    <string name="onboarding_pick_avatar">アバターをえらぼう</string>
+    <string name="onboarding_lets_go">はじめよう！</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">今日のルーティン</string>
+    <string name="today_great_job">よくできました！</string>
+    <string name="today_all_done">今日はぜんぶおわり！</string>
+    <string name="today_progress" formatted="false">%d / %d かんりょう</string>
+    <string name="today_points_earned">+%d ポイント！</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">あさ</string>
+    <string name="timeslot_school">がっこう</string>
+    <string name="timeslot_afternoon">ごご</string>
+    <string name="timeslot_evening">よる</string>
+    <string name="timeslot_bedtime">ねるじかん</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">おきる</string>
+    <string name="routine_make_bed">ベッドをつくる</string>
+    <string name="routine_brush_teeth_morning">はをみがく</string>
+    <string name="routine_get_dressed">おきがえ</string>
+    <string name="routine_eat_breakfast">あさごはん</string>
+    <string name="routine_pack_bag">ランドセルをじゅんび</string>
+    <string name="routine_homework">しゅくだい</string>
+    <string name="routine_read">15ぷんよむ</string>
+    <string name="routine_outdoor_play">そとあそび</string>
+    <string name="routine_clean_toys">おもちゃをかたづける</string>
+    <string name="routine_help_chores">おてつだい</string>
+    <string name="routine_eat_dinner">ばんごはん</string>
+    <string name="routine_set_table">テーブルのじゅんび</string>
+    <string name="routine_screen_free">スクリーンフリータイム</string>
+    <string name="routine_brush_teeth_night">はをみがく</string>
+    <string name="routine_pajamas">パジャマにきがえ</string>
+    <string name="routine_bedtime_story">おやすみのおはなし</string>
+    <string name="routine_lights_out">じかんどおりにでんきをけす</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">しゅうかんビュー</string>
+    <string name="weekly_this_week">こんしゅう</string>
+    <string name="weekly_completion">%d%% かんりょう</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">ごほうび</string>
+    <string name="rewards_total_points">ごうけいポイント</string>
+    <string name="rewards_streak">れんぞくにっすう</string>
+    <string name="rewards_milestones">マイルストーン</string>
+    <string name="rewards_badges">バッジ</string>
+    <string name="rewards_locked">がんばろう！</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">はじめてのほし！</string>
+    <string name="milestone_rising_star">ライジングスター</string>
+    <string name="milestone_super_helper">スーパーヘルパー</string>
+    <string name="milestone_champion">チャンピオン</string>
+    <string name="milestone_legend">レジェンド</string>
+    <string name="milestone_week_warrior">いっしゅうかんせんし</string>
+    <string name="milestone_monthly_master">まんすりーマスター</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">設定</string>
+    <string name="settings_routines">ルーティンをへんしゅう</string>
+    <string name="settings_routines_desc">ルーティンのついか・へんしゅう・さくじょ</string>
+    <string name="settings_children">こどもをかんり</string>
+    <string name="settings_children_desc">こどものついか・きりかえ</string>
+    <string name="settings_theme">テーマをかえる</string>
+    <string name="settings_theme_desc">アドベンチャー・キラキラ・しぜんのきりかえ</string>
+    <string name="settings_language">言語</string>
+    <string name="settings_language_desc">アプリの言語を変更</string>
+    <string name="settings_print">ルーティンシートをいんさつ</string>
+    <string name="settings_print_desc">しゅうかんルーティンチェックリストをいんさつ</string>
+    <string name="settings_about">このアプリについて</string>
+    <string name="settings_version">バージョン %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">ルーティンをへんしゅう</string>
+    <string name="edit_routine_add">ルーティンをついか</string>
+    <string name="edit_routine_name">ルーティンめい</string>
+    <string name="edit_routine_points">ポイント</string>
+    <string name="edit_routine_time_slot">じかんたい</string>
+    <string name="edit_routine_days">かつどうび</string>
+    <string name="edit_routine_save">ほぞん</string>
+    <string name="edit_routine_delete">さくじょ</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">こどもをかんり</string>
+    <string name="manage_children_add">こどもをついか</string>
+    <string name="manage_children_switch">%s にきりかえ</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">月</string>
+    <string name="day_tue">火</string>
+    <string name="day_wed">水</string>
+    <string name="day_thu">木</string>
+    <string name="day_fri">金</string>
+    <string name="day_sat">土</string>
+    <string name="day_sun">日</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">ルーティンをえらぼう</string>
+    <string name="template_pick_subtitle">テンプレートをえらぶかじぶんでつくろう</string>
+    <string name="template_routines_count" formatted="false">%d ルーティン</string>
+    <string name="template_create_own">じぶんでつくる</string>
+    <string name="template_build_scratch">いちからつくる</string>
+    <string name="template_switching_to">%s にきりかえちゅう</string>
+    <string name="template_replacing_count" formatted="false">%d のルーティンをおきかえ</string>
+    <string name="template_customize">てきようまえにカスタマイズ：</string>
+    <string name="template_routines_selected" formatted="false">%d / %d ルーティンをせんたく</string>
+    <string name="template_applying">てきようちゅう\u2026</string>
+    <string name="template_apply_count" formatted="false">てきよう (%d)</string>
+    <string name="template_category_general">一般</string>
+    <string name="template_category_islamic">イスラム</string>
+    <string name="template_category_custom">マイテンプレート</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">テンプレートをつくる</string>
+    <string name="builder_name_prompt">テンプレートになまえをつけよう</string>
+    <string name="builder_name_placeholder">れい：へいじつルーティン</string>
+    <string name="builder_pick_slots">じかんたいをえらぼう</string>
+    <string name="builder_saving">ほぞんちゅう\u2026</string>
+    <string name="builder_save">テンプレートをほぞん</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">ルーティンテンプレートをかえる</string>
+    <string name="settings_switch_child">こどもをきりかえ</string>
+    <string name="settings_about_flinkis">Flinkisについて</string>
+    <string name="settings_about_body">このアプリはナフィサのリクエストで愛情を込めて作られました。世界中の子どもたちと共有したいという願いから生まれました。Flinkisは完全に広告なしで、これからもずっとそうです。</string>
+    <string name="settings_about_body2">子ども向けアプリのアイデアがありますか？halallens.noにアクセスするか、mac@halallens.noにメッセージをお送りください \u2014 ご家族からのご連絡をお待ちしています！</string>
+    <string name="settings_edit_profile">プロフィールをへんしゅう</string>
+    <string name="settings_choose_avatar">アバターをえらぶ</string>
+    <string name="settings_name_label">おなまえ</string>
+    <string name="settings_theme_suffix">%s テーマ</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">アバターをえらんでね：</string>
+    <string name="manage_children_theme">テーマ：</string>
+    <string name="manage_children_child_name">こどものなまえ</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">今日にもどる</string>
+    <string name="today_yesterday">きのう</string>
+    <string name="today_tomorrow">あした</string>
+    <string name="weekly_back_to_week">こんしゅうにもどる</string>
+    <string name="weekly_last_week">せんしゅう</string>
+    <string name="weekly_progress">しゅうかんのしんちょく</string>
+    <string name="weekly_completed_of" formatted="false">%d / %d かんりょう</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">ぜんじつ</string>
+    <string name="a11y_next_day">よくじつ</string>
+    <string name="a11y_previous_week">ぜんしゅう</string>
+    <string name="a11y_next_week">らいしゅう</string>
+    <string name="a11y_back">もどる</string>
+    <string name="a11y_add_routine">ルーティンをついか</string>
+    <string name="a11y_add_child">こどもをついか</string>
+    <string name="a11y_edit_profile">プロフィールをへんしゅう</string>
+    <string name="a11y_completed">かんりょう</string>
+    <string name="a11y_not_completed">みかんりょう</string>
+    <string name="a11y_selected">せんたくずみ</string>
+    <string name="a11y_active">アクティブ</string>
+    <string name="a11y_points">ポイント</string>
+    <string name="a11y_streak">れんぞく</string>
+    <string name="a11y_create_own">じぶんでつくる</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">ほぞん</string>
+    <string name="delete">さくじょ</string>
+    <string name="edit">へんしゅう</string>
+    <string name="add">ついか</string>
+    <string name="loading">よみこみちゅう\u2026</string>
+    <string name="your_name">おなまえ</string>
+    <string name="custom_suffix">（カスタム）</string>
+    <string name="points_label">ポイント：</string>
+    <string name="points_format">%d pt</string>
+</resources>

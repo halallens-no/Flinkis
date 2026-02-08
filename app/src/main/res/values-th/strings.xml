@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">กิจวัตรประจำวันสำหรับเด็ก</string>
+    <string name="app_splash_subtitle">ไม่มีโฆษณาโดย halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">วันนี้</string>
+    <string name="nav_weekly">รายสัปดาห์</string>
+    <string name="nav_rewards">รางวัล</string>
+    <string name="nav_settings">ตั้งค่า</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">ยินดีต้อนรับสู่ Flinkis!</string>
+    <string name="onboarding_choose_theme">เลือกสไตล์ของคุณ</string>
+    <string name="onboarding_theme_boy">ผจญภัย</string>
+    <string name="onboarding_theme_girl">แวววาว</string>
+    <string name="onboarding_theme_neutral">ธรรมชาติ</string>
+    <string name="onboarding_whats_your_name">ชื่อของคุณคืออะไร?</string>
+    <string name="onboarding_pick_avatar">เลือกอวาตาร์ของคุณ</string>
+    <string name="onboarding_lets_go">เริ่มกันเลย!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">กิจวัตรวันนี้</string>
+    <string name="today_great_job">เก่งมาก!</string>
+    <string name="today_all_done">ทำเสร็จหมดแล้ววันนี้!</string>
+    <string name="today_progress" formatted="false">%d จาก %d เสร็จแล้ว</string>
+    <string name="today_points_earned">+%d คะแนน!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">เช้า</string>
+    <string name="timeslot_school">โรงเรียน</string>
+    <string name="timeslot_afternoon">บ่าย</string>
+    <string name="timeslot_evening">เย็น</string>
+    <string name="timeslot_bedtime">เวลานอน</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">ตื่นนอน</string>
+    <string name="routine_make_bed">จัดเตียง</string>
+    <string name="routine_brush_teeth_morning">แปรงฟัน</string>
+    <string name="routine_get_dressed">แต่งตัว</string>
+    <string name="routine_eat_breakfast">กินอาหารเช้า</string>
+    <string name="routine_pack_bag">เตรียมกระเป๋านักเรียน</string>
+    <string name="routine_homework">ทำการบ้าน</string>
+    <string name="routine_read">อ่านหนังสือ 15 นาที</string>
+    <string name="routine_outdoor_play">เล่นนอกบ้าน</string>
+    <string name="routine_clean_toys">เก็บของเล่น</string>
+    <string name="routine_help_chores">ช่วยงานบ้าน</string>
+    <string name="routine_eat_dinner">กินอาหารเย็น</string>
+    <string name="routine_set_table">ช่วยจัดโต๊ะ</string>
+    <string name="routine_screen_free">เวลาไม่มีหน้าจอ</string>
+    <string name="routine_brush_teeth_night">แปรงฟัน</string>
+    <string name="routine_pajamas">ใส่ชุดนอน</string>
+    <string name="routine_bedtime_story">อ่านนิทานก่อนนอน</string>
+    <string name="routine_lights_out">ปิดไฟตรงเวลา</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">มุมมองรายสัปดาห์</string>
+    <string name="weekly_this_week">สัปดาห์นี้</string>
+    <string name="weekly_completion">%d%% เสร็จ</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">รางวัล</string>
+    <string name="rewards_total_points">คะแนนรวม</string>
+    <string name="rewards_streak">วันติดต่อกัน</string>
+    <string name="rewards_milestones">เป้าหมาย</string>
+    <string name="rewards_badges">เหรียญตรา</string>
+    <string name="rewards_locked">สู้ต่อไป!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">ดาวดวงแรก!</string>
+    <string name="milestone_rising_star">ดาวรุ่ง</string>
+    <string name="milestone_super_helper">ผู้ช่วยสุดเก่ง</string>
+    <string name="milestone_champion">แชมป์</string>
+    <string name="milestone_legend">ตำนาน</string>
+    <string name="milestone_week_warrior">นักรบประจำสัปดาห์</string>
+    <string name="milestone_monthly_master">จ้าวแห่งเดือน</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">ตั้งค่า</string>
+    <string name="settings_routines">แก้ไขกิจวัตร</string>
+    <string name="settings_routines_desc">เพิ่ม แก้ไข หรือลบกิจวัตร</string>
+    <string name="settings_children">จัดการเด็ก</string>
+    <string name="settings_children_desc">เพิ่มหรือสลับระหว่างเด็ก</string>
+    <string name="settings_theme">เปลี่ยนธีม</string>
+    <string name="settings_theme_desc">สลับระหว่างผจญภัย แวววาว และธรรมชาติ</string>
+    <string name="settings_language">ภาษา</string>
+    <string name="settings_language_desc">เปลี่ยนภาษาแอป</string>
+    <string name="settings_print">พิมพ์แผ่นกิจวัตร</string>
+    <string name="settings_print_desc">พิมพ์เช็คลิสต์กิจวัตรรายสัปดาห์</string>
+    <string name="settings_about">เกี่ยวกับ</string>
+    <string name="settings_version">เวอร์ชัน %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">แก้ไขกิจวัตร</string>
+    <string name="edit_routine_add">เพิ่มกิจวัตร</string>
+    <string name="edit_routine_name">ชื่อกิจวัตร</string>
+    <string name="edit_routine_points">คะแนน</string>
+    <string name="edit_routine_time_slot">ช่วงเวลา</string>
+    <string name="edit_routine_days">วันที่ใช้งาน</string>
+    <string name="edit_routine_save">บันทึก</string>
+    <string name="edit_routine_delete">ลบ</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">จัดการเด็ก</string>
+    <string name="manage_children_add">เพิ่มเด็ก</string>
+    <string name="manage_children_switch">สลับไปยัง %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">จ.</string>
+    <string name="day_tue">อ.</string>
+    <string name="day_wed">พ.</string>
+    <string name="day_thu">พฤ.</string>
+    <string name="day_fri">ศ.</string>
+    <string name="day_sat">ส.</string>
+    <string name="day_sun">อา.</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">เลือกกิจวัตร</string>
+    <string name="template_pick_subtitle">เลือกเทมเพลตหรือสร้างเอง</string>
+    <string name="template_routines_count" formatted="false">%d กิจวัตร</string>
+    <string name="template_create_own">สร้างเอง</string>
+    <string name="template_build_scratch">สร้างตั้งแต่ต้น</string>
+    <string name="template_switching_to">กำลังสลับไปยัง %s</string>
+    <string name="template_replacing_count" formatted="false">แทนที่ %d กิจวัตรปัจจุบัน</string>
+    <string name="template_customize">ปรับแต่งก่อนนำไปใช้:</string>
+    <string name="template_routines_selected" formatted="false">%d จาก %d กิจวัตรที่เลือก</string>
+    <string name="template_applying">กำลังนำไปใช้\u2026</string>
+    <string name="template_apply_count" formatted="false">นำไปใช้ (%d)</string>
+    <string name="template_category_general">ทั่วไป</string>
+    <string name="template_category_islamic">อิสลาม</string>
+    <string name="template_category_custom">เทมเพลตของฉัน</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">สร้างเทมเพลต</string>
+    <string name="builder_name_prompt">ตั้งชื่อเทมเพลตของคุณ</string>
+    <string name="builder_name_placeholder">เช่น กิจวัตรวันธรรมดา</string>
+    <string name="builder_pick_slots">เลือกช่วงเวลา</string>
+    <string name="builder_saving">กำลังบันทึก\u2026</string>
+    <string name="builder_save">บันทึกเทมเพลต</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">เปลี่ยนเทมเพลตกิจวัตร</string>
+    <string name="settings_switch_child">สลับเด็ก</string>
+    <string name="settings_about_flinkis">เกี่ยวกับ Flinkis</string>
+    <string name="settings_about_body">แอปนี้สร้างขึ้นด้วยความรักตามคำขอของนาฟิซา ที่อยากแบ่งปันกับเด็กๆ ทั่วโลก Flinkis ปราศจากโฆษณาอย่างสมบูรณ์และจะเป็นเช่นนั้นตลอดไป</string>
+    <string name="settings_about_body2">มีไอเดียสำหรับแอปที่เป็นมิตรกับเด็กอีกไหม? เยี่ยมชม halallens.no หรือส่งข้อความถึงเราที่ mac@halallens.no \u2014 เรายินดีรับฟังจากครอบครัว!</string>
+    <string name="settings_edit_profile">แก้ไขโปรไฟล์</string>
+    <string name="settings_choose_avatar">เลือกอวาตาร์</string>
+    <string name="settings_name_label">ชื่อของคุณ</string>
+    <string name="settings_theme_suffix">ธีม%s</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">เลือกอวาตาร์:</string>
+    <string name="manage_children_theme">ธีม:</string>
+    <string name="manage_children_child_name">ชื่อของเด็ก</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">กลับไปวันนี้</string>
+    <string name="today_yesterday">เมื่อวาน</string>
+    <string name="today_tomorrow">พรุ่งนี้</string>
+    <string name="weekly_back_to_week">กลับไปสัปดาห์นี้</string>
+    <string name="weekly_last_week">สัปดาห์ที่แล้ว</string>
+    <string name="weekly_progress">ความคืบหน้ารายสัปดาห์</string>
+    <string name="weekly_completed_of" formatted="false">%d จาก %d เสร็จแล้ว</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">วันก่อนหน้า</string>
+    <string name="a11y_next_day">วันถัดไป</string>
+    <string name="a11y_previous_week">สัปดาห์ก่อนหน้า</string>
+    <string name="a11y_next_week">สัปดาห์ถัดไป</string>
+    <string name="a11y_back">กลับ</string>
+    <string name="a11y_add_routine">เพิ่มกิจวัตร</string>
+    <string name="a11y_add_child">เพิ่มเด็ก</string>
+    <string name="a11y_edit_profile">แก้ไขโปรไฟล์</string>
+    <string name="a11y_completed">เสร็จแล้ว</string>
+    <string name="a11y_not_completed">ยังไม่เสร็จ</string>
+    <string name="a11y_selected">ถูกเลือก</string>
+    <string name="a11y_active">ใช้งานอยู่</string>
+    <string name="a11y_points">คะแนน</string>
+    <string name="a11y_streak">ต่อเนื่อง</string>
+    <string name="a11y_create_own">สร้างเอง</string>
+
+    <!-- General -->
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="save">บันทึก</string>
+    <string name="delete">ลบ</string>
+    <string name="edit">แก้ไข</string>
+    <string name="add">เพิ่ม</string>
+    <string name="loading">กำลังโหลด\u2026</string>
+    <string name="your_name">ชื่อของคุณ</string>
+    <string name="custom_suffix">(กำหนดเอง)</string>
+    <string name="points_label">คะแนน:</string>
+    <string name="points_format">%d คะแนน</string>
+</resources>

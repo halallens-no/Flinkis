@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Flinkis</string>
+    <string name="app_tagline">Dagliga rutiner för barn</string>
+    <string name="app_splash_subtitle">Reklamfri från halallens.no</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Idag</string>
+    <string name="nav_weekly">Vecka</string>
+    <string name="nav_rewards">Belöningar</string>
+    <string name="nav_settings">Inställningar</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome">Välkommen till Flinkis!</string>
+    <string name="onboarding_choose_theme">Välj din stil</string>
+    <string name="onboarding_theme_boy">Äventyr</string>
+    <string name="onboarding_theme_girl">Glitter</string>
+    <string name="onboarding_theme_neutral">Natur</string>
+    <string name="onboarding_whats_your_name">Vad heter du?</string>
+    <string name="onboarding_pick_avatar">Välj din avatar</string>
+    <string name="onboarding_lets_go">Nu kör vi!</string>
+
+    <!-- Today Screen -->
+    <string name="today_title">Dagens rutiner</string>
+    <string name="today_great_job">Bra jobbat!</string>
+    <string name="today_all_done">Allt klart för idag!</string>
+    <string name="today_progress" formatted="false">%d av %d klara</string>
+    <string name="today_points_earned">+%d poäng!</string>
+
+    <!-- Time Slots -->
+    <string name="timeslot_morning">Morgon</string>
+    <string name="timeslot_school">Skola</string>
+    <string name="timeslot_afternoon">Eftermiddag</string>
+    <string name="timeslot_evening">Kväll</string>
+    <string name="timeslot_bedtime">Läggdags</string>
+
+    <!-- Default Routines -->
+    <string name="routine_wake_up">Vakna</string>
+    <string name="routine_make_bed">Bädda sängen</string>
+    <string name="routine_brush_teeth_morning">Borsta tänderna</string>
+    <string name="routine_get_dressed">Klä på dig</string>
+    <string name="routine_eat_breakfast">Äta frukost</string>
+    <string name="routine_pack_bag">Packa skolväskan</string>
+    <string name="routine_homework">Göra läxor</string>
+    <string name="routine_read">Läsa i 15 minuter</string>
+    <string name="routine_outdoor_play">Utomhuslek</string>
+    <string name="routine_clean_toys">Städa leksaker</string>
+    <string name="routine_help_chores">Hjälpa till med sysslor</string>
+    <string name="routine_eat_dinner">Äta middag</string>
+    <string name="routine_set_table">Hjälpa till att duka</string>
+    <string name="routine_screen_free">Skärmfri tid</string>
+    <string name="routine_brush_teeth_night">Borsta tänderna</string>
+    <string name="routine_pajamas">Ta på pyjamas</string>
+    <string name="routine_bedtime_story">Läsa godnattsaga</string>
+    <string name="routine_lights_out">Släck ljuset i tid</string>
+
+    <!-- Weekly Screen -->
+    <string name="weekly_title">Veckovy</string>
+    <string name="weekly_this_week">Den här veckan</string>
+    <string name="weekly_completion">%d%% klart</string>
+
+    <!-- Rewards Screen -->
+    <string name="rewards_title">Belöningar</string>
+    <string name="rewards_total_points">Totala poäng</string>
+    <string name="rewards_streak">Dagar i rad</string>
+    <string name="rewards_milestones">Milstolpar</string>
+    <string name="rewards_badges">Märken</string>
+    <string name="rewards_locked">Fortsätt!</string>
+
+    <!-- Milestones -->
+    <string name="milestone_first_star">Första stjärnan!</string>
+    <string name="milestone_rising_star">Stigande stjärna</string>
+    <string name="milestone_super_helper">Superhjälpare</string>
+    <string name="milestone_champion">Mästare</string>
+    <string name="milestone_legend">Legend</string>
+    <string name="milestone_week_warrior">Veckokämpe</string>
+    <string name="milestone_monthly_master">Månadsmästare</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Inställningar</string>
+    <string name="settings_routines">Redigera rutiner</string>
+    <string name="settings_routines_desc">Lägg till, redigera eller ta bort rutiner</string>
+    <string name="settings_children">Hantera barn</string>
+    <string name="settings_children_desc">Lägg till eller byt mellan barn</string>
+    <string name="settings_theme">Byt tema</string>
+    <string name="settings_theme_desc">Byt mellan Äventyr, Glitter och Natur</string>
+    <string name="settings_language">Språk</string>
+    <string name="settings_language_desc">Byt app-språk</string>
+    <string name="settings_print">Skriv ut rutinblad</string>
+    <string name="settings_print_desc">Skriv ut en veckovis rutinchecklista</string>
+    <string name="settings_about">Om</string>
+    <string name="settings_version">Version %s</string>
+
+    <!-- Edit Routine -->
+    <string name="edit_routine_title">Redigera rutin</string>
+    <string name="edit_routine_add">Lägg till rutin</string>
+    <string name="edit_routine_name">Rutinnamn</string>
+    <string name="edit_routine_points">Poäng</string>
+    <string name="edit_routine_time_slot">Tidslucka</string>
+    <string name="edit_routine_days">Aktiva dagar</string>
+    <string name="edit_routine_save">Spara</string>
+    <string name="edit_routine_delete">Radera</string>
+
+    <!-- Manage Children -->
+    <string name="manage_children_title">Hantera barn</string>
+    <string name="manage_children_add">Lägg till barn</string>
+    <string name="manage_children_switch">Byt till %s</string>
+
+    <!-- Days of Week -->
+    <string name="day_mon">Mån</string>
+    <string name="day_tue">Tis</string>
+    <string name="day_wed">Ons</string>
+    <string name="day_thu">Tor</string>
+    <string name="day_fri">Fre</string>
+    <string name="day_sat">Lör</string>
+    <string name="day_sun">Sön</string>
+
+    <!-- Template Picker -->
+    <string name="template_choose_routine">Välj en rutin</string>
+    <string name="template_pick_subtitle">Välj en mall eller skapa din egen</string>
+    <string name="template_routines_count" formatted="false">%d rutiner</string>
+    <string name="template_create_own">Skapa din egen</string>
+    <string name="template_build_scratch">Bygga från grunden</string>
+    <string name="template_switching_to">Byter till %s</string>
+    <string name="template_replacing_count" formatted="false">Ersätter %d nuvarande rutiner</string>
+    <string name="template_customize">Anpassa innan du tillämpar:</string>
+    <string name="template_routines_selected" formatted="false">%d av %d rutiner valda</string>
+    <string name="template_applying">Tillämpar\u2026</string>
+    <string name="template_apply_count" formatted="false">Tillämpa (%d)</string>
+    <string name="template_category_general">Allmänt</string>
+    <string name="template_category_islamic">Islamisk</string>
+    <string name="template_category_custom">Mina mallar</string>
+
+    <!-- Quick Builder -->
+    <string name="builder_title">Skapa mall</string>
+    <string name="builder_name_prompt">Namnge din mall</string>
+    <string name="builder_name_placeholder">t.ex. Vardagsrutin</string>
+    <string name="builder_pick_slots">Välj tidsluckor</string>
+    <string name="builder_saving">Sparar\u2026</string>
+    <string name="builder_save">Spara mall</string>
+
+    <!-- Settings extras -->
+    <string name="settings_change_template">Byt rutinmall</string>
+    <string name="settings_switch_child">Byt barn</string>
+    <string name="settings_about_flinkis">Om Flinkis</string>
+    <string name="settings_about_body">Den här appen skapades kärleksfullt på önskemål av Nafisa, som ville dela den med barn över hela världen. Flinkis är helt reklamfri och kommer alltid att vara det.</string>
+    <string name="settings_about_body2">Har du en idé till en annan barnvänlig app? Besök halallens.no eller skicka ett meddelande till mac@halallens.no \u2014 vi älskar att höra från familjer!</string>
+    <string name="settings_edit_profile">Redigera profil</string>
+    <string name="settings_choose_avatar">Välj avatar</string>
+    <string name="settings_name_label">Namn</string>
+    <string name="settings_theme_suffix">%s-tema</string>
+
+    <!-- Manage Children extras -->
+    <string name="manage_children_pick_avatar">Välj en avatar:</string>
+    <string name="manage_children_theme">Tema:</string>
+    <string name="manage_children_child_name">Barnets namn</string>
+
+    <!-- Today/Weekly extras -->
+    <string name="today_back_to_today">Tillbaka till idag</string>
+    <string name="today_yesterday">Igår</string>
+    <string name="today_tomorrow">Imorgon</string>
+    <string name="weekly_back_to_week">Tillbaka till den här veckan</string>
+    <string name="weekly_last_week">Förra veckan</string>
+    <string name="weekly_progress">Veckoframsteg</string>
+    <string name="weekly_completed_of" formatted="false">%d av %d klara</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_previous_day">Föregående dag</string>
+    <string name="a11y_next_day">Nästa dag</string>
+    <string name="a11y_previous_week">Föregående vecka</string>
+    <string name="a11y_next_week">Nästa vecka</string>
+    <string name="a11y_back">Tillbaka</string>
+    <string name="a11y_add_routine">Lägg till rutin</string>
+    <string name="a11y_add_child">Lägg till barn</string>
+    <string name="a11y_edit_profile">Redigera profil</string>
+    <string name="a11y_completed">Klar</string>
+    <string name="a11y_not_completed">Inte klar</string>
+    <string name="a11y_selected">Vald</string>
+    <string name="a11y_active">Aktiv</string>
+    <string name="a11y_points">Poäng</string>
+    <string name="a11y_streak">Dagar i rad</string>
+    <string name="a11y_create_own">Skapa din egen</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="save">Spara</string>
+    <string name="delete">Radera</string>
+    <string name="edit">Redigera</string>
+    <string name="add">Lägg till</string>
+    <string name="loading">Laddar\u2026</string>
+    <string name="your_name">Ditt namn</string>
+    <string name="custom_suffix">(anpassad)</string>
+    <string name="points_label">Poäng:</string>
+    <string name="points_format">%d p</string>
+</resources>
