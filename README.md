@@ -293,6 +293,17 @@ This app uses open source libraries licensed under Apache License 2.0. See [NOTI
 - JetBrains (Kotlin)
 - The open source community
 
+### Development Disclaimer
+
+⚠️ **This app was exclusively built using Claude Opus 4.6 AI assistant** with the `/myroutine` command and superpowers plugins from the HalalLens project environment. While extensive testing and manual verification have been performed, please be aware that:
+
+- The code may contain AI-generated patterns that require careful review
+- Edge cases and unusual scenarios may not be fully covered
+- Future maintenance should include careful testing and validation
+- Contributions should be thoroughly tested before merging
+
+For bug reports or unexpected behavior, please open an issue with detailed reproduction steps.
+
 ---
 
 ## Support
