@@ -31,11 +31,11 @@ Flinkis helps kids build healthy routines through gamification and parental guid
 
 ### App Icon
 
-<img src="assets/icon-512.png" alt="Flinkis App Icon" width="200"/>
+<img src="assets/app-icon.png" alt="Flinkis App Icon" width="120"/>
 
 ### Feature Graphic
 
-![Flinkis Feature Graphic](assets/feature-graphic-1024x500.png)
+![Flinkis Feature Graphic](assets/banner.png)
 
 ---
 
