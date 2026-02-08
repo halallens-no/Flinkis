@@ -1,7 +1,7 @@
 # Flinkis
 
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Flinkis Logo" width="120"/>
+  <img src="assets/app-icon.png" alt="Flinkis Logo" width="120"/>
 
   **Ad-free routine tracker for kids**
 
