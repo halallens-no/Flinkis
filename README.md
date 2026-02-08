@@ -367,7 +367,7 @@ Flinkis is open source and can be submitted to F-Droid:
 
 ## Downloads
 
-**Latest Release**: [Flinkis v1.0.1](assets/flinkis-v1.0.1-release.apk) (7.8 MB)
+**Latest Release**: [Flinkis v1.0.1](https://halallens.no/upp/files/25a4847b38f54ae8841c23d5a54dcc8a.apk?token=8oYgBscJdYnVvv0VO0wwVzqbS3keno4PrdK3M8PbVA_x9XohYZAobANzW09NK0qn) (7.8 MB)
 
 - **Signed APK** (ready to install on Android devices)
 - Version: 1.0.1
@@ -375,6 +375,8 @@ Flinkis is open source and can be submitted to F-Droid:
 - Minimum SDK: Android 8.0 (API 26)
 - All 14 languages included
 - Ad-free, offline-first
+
+**Temporary download link** — Direct installation available for early testing
 
 ---
 
